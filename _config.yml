@@ -14,11 +14,19 @@ author: Daniel Pfund
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  Actualités: "aboutme"
+  Le Salève:
+    - Itinéraires: "https://beautifuljekyll.com"
+    - Informations Pratiques: "https://www.markdowntutorial.com/"
+    - Autour du Salève: "autour"
+  L'association:
+    - Avertissement / Disclaimer: "disclaimer"
+    - Status: "status"
+    - Assemblée générale:
+      - Comptes rendus: "ag"
+  Contact:
+    - Contact us: "contact"
+    - Remerciements: "remerciements"
 
 # --- Logo --- #
 
@@ -72,6 +80,9 @@ social-network-links:
 #rss-description: This website is a virtual proof that I'm awesome
 
 # --- General options --- #
+
+# Move blog to /blog
+paginate_path: "/blog/page:num/"
 
 # Select which social network share links to show in posts
 share-links-active:
