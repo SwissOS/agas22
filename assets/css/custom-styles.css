@@ -6,8 +6,18 @@
   justify-content: center;
 }
 
+.box-error,
 .box-warning{
   font-family: 'Courier New', monospace;
+  border-right-width: 0.3125rem;
+}
+  
+.box-error {
+  border-color: #c0392b;
+}
+
+.box-warning {
+  border-color: #f1c40f;
 }
 
 span.emoji {
