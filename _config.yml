@@ -27,9 +27,9 @@ navbar-links:
     - Contact us: "contact"
     - Remerciements: "remerciements"
   Language:
-    - <img src="assets/img/us.png" width="20" height="20" alt="US flag"> English: "english"
-    - <img src="assets/img/de.png" width="20" height="20" alt="DE flag"> Deutsch: "deutsch"
-    - <img src="assets/img/es.png" width="20" height="20" alt="ES flag"> Español: "espagnol"
+    - <img src="/assets/img/us.png" width="20" height="20" alt="US flag"> English: "english"
+    - <img src="/assets/img/de.png" width="20" height="20" alt="DE flag"> Deutsch: "deutsch"
+    - <img src="/assets/img/es.png" width="20" height="20" alt="ES flag"> Español: "espagnol"
 
 # --- Logo --- #
 
