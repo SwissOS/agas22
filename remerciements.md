@@ -1,6 +1,5 @@
 ---
 layout: page
-cover-img: "/assets/img/saleve-banner.jpg"
 title: Remerciements
 ---
 
