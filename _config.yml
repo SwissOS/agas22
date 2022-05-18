@@ -26,9 +26,9 @@ navbar-links:
     - Infos Pratiques: "infos-pratiques"
     - Contact us: "contact"
     - Remerciements: "remerciements"
-  &#x1f1fa;&#x1f1f8;: "english"
-  &#x1f1e9;&#x1f1ea;: "deutsch"
-  &#x1f1ea;&#x1f1f8;: "espagnol"
+  🇺🇸: "english"
+  🇺🇸: "deutsch"
+  🇺🇸: "espagnol"
 
 # --- Logo --- #
 
