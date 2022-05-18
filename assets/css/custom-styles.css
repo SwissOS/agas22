@@ -1,11 +1,17 @@
-.columns {
+.welcome {
   display: flex;
-  flex-direction: row;
-  flex-wrap: wrap;
-  width: 100%;
+  flex-flow: row wrap;
   padding: 10px;
+  align-items: center;
+  justify-content: center;
 }
 
-.column3 {
-  flex: 33.33%;
+.box-warning{
+  font-family: 'Courier New', monospace;
+}
+
+span.emoji {
+  font-size: 30px;
+  vertical-align: middle;
+  line-height: 2;
 }
