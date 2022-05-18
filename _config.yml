@@ -78,8 +78,8 @@ social-network-links:
 #  kaggle: yourname
 #  hackerrank: yourname
 
-#Footer extra
-footer-extra: footer-disclaimer.html
+# Footer extra
+footer-extra: "footer-disclaimer.html"
 
 # If you want your website to generate an RSS feed, provide a description
 # The URL for the feed will be https://<your_website>/feed.xml
