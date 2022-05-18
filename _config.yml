@@ -104,7 +104,7 @@ feed_show_excerpt: true
 feed_show_tags: true
 
 # Add a search button to the navbar
-post_search: true
+#post_search: true
 
 # The keywords to associate with your website, for SEO purposes
 #keywords: "my,list,of,keywords"
@@ -251,6 +251,7 @@ defaults:
       path: "" # any file that's not a post will be a "page" layout by default
     values:
       layout: "page"
+      cover-img: "/assets/img/saleve-banner.jpg"
 
 # Exclude these files from production site
 exclude:
