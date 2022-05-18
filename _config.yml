@@ -24,7 +24,7 @@ navbar-links:
     - Assemblée générale: "ag"
   Informations Pratiques:
     - Infos Pratiques: "infos-pratiques"
-    - Contact us: "contact"
+    - Contact: "contact"
     - Remerciements: "remerciements"
   Language:
     - <img src="/assets/img/us.png" width="20" height="20" alt="US flag"> English: "english"
