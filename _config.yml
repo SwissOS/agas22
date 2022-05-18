@@ -9,13 +9,13 @@
 title: Association Genevoise des Amis du Salève
 
 # Your name to show in the footer
-author: Daniel Pfund
+author: AGAS
 
 # --- List of links in the navigation bar --- #
 
 navbar-links:
   Actualités: "aboutme"
-  Le Salève:
+  Le Salève   :
     - Itinéraires: "https://beautifuljekyll.com"
     - Informations Pratiques: "https://www.markdowntutorial.com/"
     - Autour du Salève: "autour"
