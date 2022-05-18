@@ -26,7 +26,7 @@ navbar-links:
     - Infos Pratiques: "infos-pratiques"
     - Contact us: "contact"
     - Remerciements: "remerciements"
-  🇺🇸: "english"
+  <img src="assets/img/us.png" width="24" height="24" alt="US flag">: "english"
   🇺🇸: "deutsch"
   🇺🇸: "espagnol"
 
