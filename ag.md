@@ -56,6 +56,9 @@ Du dimanche 3.1.21 jusqu'au dimanche 16.5.21, les randonnées n'ont pas été or
 * 30.5.21 - 15 personnes dont 5 nouvelles. Il fait beau. PE = 9 personnes. ORJ = 6 personnes.
 * 6.6.21 - 18 personnes dont 5 nouvelles. Il fait beau. PE = 12 personnes. GG = 6 personnes.
 * 13.6.21 - 26 personnes dont 6 nouvelles. Il fait beau. PE = 26 personnes. L'Assemblée Générale a lieu sur le gazon à côté du Chalet Snack-bar à la station supérieure du téléphérique du Salève, en présence de 30 membres sur les 120 inscrits (49 hommes et 71 femmes) ainsi que d'une dizaine de sympathisants (18 membres ainsi que 8 non membres montent par le PE). Claude Petitat a donné lecture (au mégaphone) du rapport du Président. Micaela Lo Balbo a donné lecture du rapport du trésorier. David Viry a donné lecture du rapport des vérificatrices de comptes. Les 3 rapports ont été approuvés à l'unanimité. Les quatre membres sortants du comité de l'AGAS ont été réélus, ainsi que les deux vérificatrices de comptes qui se sont représentées et ont aussi été réélues. André Mabillard remercie David Viry pour l'organisation des sorties. Catherine Tolve distribue des gâteaux fait maison à l'assemblée. Gilles et sa femme Coco nous ont gâtés comme chaque année avec des amuse-bouches et des boissons.
+
+<img src="/assets/img/AG2021.jpg" alt="AG2021" class="center">
+
 * 20.6.21 - 7 personnes. Il fait beau jusqu'à 13h15 puis pluie. PS = 4 personnes. PE = 1 personne. ORJ = 2 personnes.
 * 27.6.21 - 19 personnes dont 6 nouvelles. Il fait beau. PE = 5 personnes. 2 personnes PE rythme lent. BM = 1 personne. ORJ = 7 personnes. Pitons = 4 personnes.
 * 4.7.21 - 15 personnes dont 7 nouvelles. Il fait gris+sec (pluie 1/10 10h-10h30 et 12h30-12h40). PE.
