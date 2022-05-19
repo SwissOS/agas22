@@ -17,7 +17,13 @@ Article 2: L'AGAS a son siège à Genève et a pour but d'organiser des randonn�
 
 **III - Organisation**
 
-Article 3: Les organes de l'AGAS sont: a) L'assemblée générale, b) le comité, c) les vérificateurs des comptes.
+Article 3: Les organes de l'AGAS sont:
+
+a) L'assemblée générale
+
+b) le comité
+
+c) les vérificateurs des comptes.
 
 **IV - Assemblée générale**
 
