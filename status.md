@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Status
+title: Statuts
 share-title: Status de l'AGAS
 ---
 Association Genevoise des Amis du Salève (AGAS)
