@@ -44,7 +44,6 @@ navbar-links:
 # then specify the following parameter
 #title-img: /path/to/image
 
-
 # --- Footer social media links --- #
 
 # Select the social network links that you want to show in the footer.
@@ -77,9 +76,6 @@ social-network-links:
 #  discord: invite/invite_code or users/userid 
 #  kaggle: yourname
 #  hackerrank: yourname
-
-# Footer extra
-footer-extra: footer-disclaimer.html
 
 # If you want your website to generate an RSS feed, provide a description
 # The URL for the feed will be https://<your_website>/feed.xml
@@ -114,7 +110,7 @@ feed_show_tags: true
 #post_search: true
 
 # The keywords to associate with your website, for SEO purposes
-#keywords: "my,list,of,keywords"
+keywords: "Salève, Saleve, randonner, rando, randos, AGAS"
 
 # --- Colours / background image --- #
 
@@ -123,7 +119,8 @@ feed_show_tags: true
 navbar-col: "#EAEAEA"
 navbar-text-col: "#404040"
 navbar-border-col: "#DDDDDD"
-page-col: "#FFFFFF"
+page-col: "#FEE6CC"
+# page-col: "#FFFFFF"
 text-col: "#404040"
 link-col: "#008AFF"
 hover-col: "#0085A1"
@@ -251,6 +248,7 @@ defaults:
       type: "posts"
     values:
       layout: "post"
+      footer-extra: "footer-disclaimer.html"
       comments: true  # add comments to all blog posts
       social-share: true # add social media sharing buttons to all blog posts
   -
@@ -259,6 +257,7 @@ defaults:
     values:
       layout: "page"
       cover-img: "/assets/img/saleve-banner.jpg"
+      footer-extra: "footer-disclaimer.html"
 
 # Exclude these files from production site
 exclude:
@@ -277,4 +276,3 @@ plugins:
 
 # Beautiful Jekyll / Dean Attali
 # 2fc73a3a967e97599c9763d05e564189
-
