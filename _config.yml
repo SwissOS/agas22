@@ -148,8 +148,8 @@ site-css:
 #  - "/assets/js/custom-script.js"
 
 # Footer disclaimer
-footer-extra:
-  - "footer-disclaimer.html"
+#footer-extra:
+#  - "footer-disclaimer.html"
 
 # --- Web Analytics Section --- #
 
@@ -261,8 +261,7 @@ defaults:
     values:
       layout: "page"
       cover-img: "/assets/img/saleve-banner.jpg"
-
-#footer-extra: "footer-disclaimer.html"
+      footer-extra: "footer-disclaimer.html"
 
 # Exclude these files from production site
 exclude:
