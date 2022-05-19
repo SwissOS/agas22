@@ -6,11 +6,6 @@
   justify-content: center;
 }
 
-.welcome_bg {
-  width: 100%;
-  background-color: #fee6cc;
-}
-
 span.emoji {
   font-size: 30px;
   vertical-align: middle;
@@ -20,4 +15,12 @@ span.emoji {
 .box-error,
 .box-warning {
   font-family: 'Courier New', monospace;
+}
+
+/* Set the size of the div element that contains the map */
+#map {
+  height: 400px;
+  /* The height is 400 pixels */
+  width: 100%;
+  /* The width is the width of the web page */
 }
