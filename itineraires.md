@@ -12,4 +12,4 @@ L'AGAS propose essentiellement 3 itinéraires:
 * La Grande Gorge (difficile, en orange sur la carte)
 * Orjobet - La Corraterie (difficile, en rouge/blanc sur la carte)
 
-![Sentiers du Salève](sentiers-du-Saleve.jpg "Sentiers du Salève")
+![Sentiers du Salève](/assets/img/sentiers-du-Saleve.jpg "Sentiers du Salève")
