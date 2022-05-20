@@ -1,3 +1,12 @@
+---
+layout: page
+title: Contact
+share-title: Comment contacter l'AGAS
+---
+# Nous contacter
+
+Vous pouvez nous contacter par les moyens de contacts suivants:
+
 <p><a href="mailto:{{ site.social-network-links.email }}" title="Email me">
       <span class="fa-stack fa-lg" aria-hidden="true">
         <i class="fas fa-circle fa-stack-2x"></i>
