@@ -104,7 +104,7 @@ excerpt_length: 50
 feed_show_excerpt: true
 
 # Whether or not to show a list of tags below each post preview in the feed page
-feed_show_tags: true
+#feed_show_tags: true
 
 # Add a search button to the navbar
 #post_search: true
@@ -146,10 +146,6 @@ site-css:
 # If you have common JavaScript files that should be included in every page, list them here
 #site-js:
 #  - "/assets/js/custom-script.js"
-
-# Footer disclaimer
-#footer-extra:
-#  - "footer-disclaimer.html"
 
 # --- Web Analytics Section --- #
 
@@ -253,7 +249,6 @@ defaults:
     values:
       layout: "post"
       footer-extra: "footer-disclaimer.html"
-      comments: true  # add comments to all blog posts
       social-share: true # add social media sharing buttons to all blog posts
   -
     scope:
@@ -262,6 +257,8 @@ defaults:
       layout: "page"
       cover-img: "/assets/img/saleve-banner.jpg"
       footer-extra: "footer-disclaimer.html"
+
+#      comments: true  # add comments to all blog posts
 
 # Exclude these files from production site
 exclude:
