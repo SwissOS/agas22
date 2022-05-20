@@ -52,7 +52,7 @@ span.emoji {
 }
 
 /* Change H1 style */
-.container-md h1{
+.container-md h3{
   font-family: 'Raleway', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   font-weight: 400;
   font-size: 3.75rem;
