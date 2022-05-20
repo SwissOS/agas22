@@ -50,6 +50,7 @@ navbar-links:
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
   email: "david.viry@dj-webb.ch"
+  telephone: "+41 22 796 41 33"
   facebook: LesAmisduSaleve
   telegram: SaleveOne
 #  rss: true  # remove this line if you don't want to show an RSS link at the bottom
@@ -65,7 +66,6 @@ social-network-links:
 #  snapchat: deanat78
 #  instagram: deanat78
 #  spotify: yourname
-telephone: +41227964133
 #  steam: deanat78
 #  twitch: yourname
 #  yelp: yourname
