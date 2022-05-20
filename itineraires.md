@@ -13,20 +13,37 @@ L'AGAS propose essentiellement 3 itinéraires:
 * Orjobet - La Corraterie (difficile, en rouge/blanc sur la carte)
 
 
-### Le Pas de l'échelle
-![Le Pas de l'échelle](/assets/img/Pas-de-l-echelle.jpg)
-Itinéraire classique qui passe par le château et le village de Monnetier pour atteindre le téléphérique (**moyennement difficile**).
-2h de montée
+<div class="columns">
+ <div style="flex:33%;padding:10px">
+  <div class="img_container">
+   <img src="/assets/img/Pas-de-l-echelle.jpg" alt="Le Pas de l'échelle" width="281" height="394">
+   <div class="img_legend">Pas de l'échelle</div>
+  </div>
+ <p>Itinéraire classique qui passe par le château et le village de Monnetier pour atteindre le téléphérique (<strong>moyennement difficile</strong>).
+  <br>2h de montée
+ </p>
+ </div>
+ <div style="flex:33%;padding:10px">
+  <div class="img_container">
+   <img src="/assets/img/Grande-Gorge.jpg" alt="La Grande Gorge" width="281" height="394">
+   <div class="img_legend">La Grande Gorge</div>
+  </div>
+  <p>Itinéraire dans les bois, relativement raide par endroits (<strong>difficile</strong>).
+   <br>3 heures de montée
+  </p>
+ </div>
+ 
+ <div style="flex:33%;padding:10px">
+  <div class="img_container">
+   <img src="/assets/img/Corraterie.jpg" alt="La Corraterie" width="281" height="394">
+   <div class="img_legend">La Corraterie</div>
+  </div>
+  <p>Itinéraire le plus long, passant par la grotte d’Orjobet, le Trou de la Tine et longeant le Salève par la Corraterie (<strong>difficile</strong>).
+   <br>4 heures de montée
+  </p>
+ </div>
+</div>
 
-### La Grande Gorge
-![Le Pas de l'échelle](/assets/img/Grande-Gorge.jpg)
-Itinéraire dans les bois, relativement raide par endroits (**difficile**).
-3 heures de montée
-
-### La Corraterie
-![Le Pas de l'échelle](/assets/img/Corraterie.jpg)
-Itinéraire le plus long, passant par la grotte d'Orjobet, le Trou de la Tine et longeant le Salève par la Corraterie (**difficile**).
-4 heures de montée
 
 [![Sentiers du Salève](/assets/img/sentiers-du-Saleve.jpg "Sentiers du Salève")](/assets/img/sentiers-du-Saleve.jpg "Sentiers du Salève")
 [Cliquez sur la carte pour la voir en grand.](/assets/img/sentiers-du-Saleve.jpg "Sentiers du Salève")
