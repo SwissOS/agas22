@@ -83,8 +83,8 @@ social-network-links:
 
 # --- General options --- #
 
-# Move blog to /blog
-paginate_path: "/blog/page:num/"
+# Move "blog" to /articles
+paginate_path: "/articles/page:num/"
 
 # Select which social network share links to show in posts
 share-links-active:
