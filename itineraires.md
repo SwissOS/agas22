@@ -12,5 +12,25 @@ L'AGAS propose essentiellement 3 itinéraires:
 * La Grande Gorge (difficile, en orange sur la carte)
 * Orjobet - La Corraterie (difficile, en rouge/blanc sur la carte)
 
+
+### Le Pas de l'échelle
+![Le Pas de l'échelle](/assets/img/Pas-de-l-echelle.jpg)
+Itinéraire classique qui passe par le château et le village de Monnetier pour atteindre le téléphérique (**moyennement difficile**).
+2h de montée
+
+### La Grande Gorge
+![Le Pas de l'échelle](/assets/img/Grande-Gorge.jpg)
+Itinéraire dans les bois, relativement raide par endroits (**difficile**).
+3 heures de montée
+
+### La Corraterie
+![Le Pas de l'échelle](/assets/img/Corraterie.jpg)
+Itinéraire le plus long, passant par la grotte d'Orjobet, le Trou de la Tine et longeant le Salève par la Corraterie (**difficile**).
+4 heures de montée
+
 [![Sentiers du Salève](/assets/img/sentiers-du-Saleve.jpg "Sentiers du Salève")](/assets/img/sentiers-du-Saleve.jpg "Sentiers du Salève")
 [Cliquez sur la carte pour la voir en grand.](/assets/img/sentiers-du-Saleve.jpg "Sentiers du Salève")
+
+## Autres itinéraires
+
+Suivant la demande, la météo, et la disponibilité des bénévoles, nous proposons d'autres itinéraires comme Le Bois Mouton, La Sauge, La Thuile, Les Pitons, ou le Petit Salève.
