@@ -50,3 +50,13 @@ span.emoji {
   font-style: italic;
   font-weight: lighter;
 }
+
+/* Change H1 style */
+.container-md h1{
+  font-family: 'Raleway', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-weight: 400;
+  font-size: 3.75rem;
+  line-height: 1.31667;
+  letter-spacing: .01em;
+  padding-bottom: 1rem;
+}
