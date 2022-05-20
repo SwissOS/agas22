@@ -1,5 +1,6 @@
 ---
 layout: post
+thumbnail-img: /assets/img/AG2021.jpg
 title: Rapport annuel 2021
 ---
 
