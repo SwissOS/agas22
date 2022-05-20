@@ -6,6 +6,11 @@
   justify-content: center;
 }
 
+.welcome_bg {
+  width: 100%;
+  background-color: #fee6cc;
+}
+
 span.emoji {
   font-size: 30px;
   vertical-align: middle;
@@ -17,10 +22,29 @@ span.emoji {
   font-family: 'Courier New', monospace;
 }
 
-/* Set the size of the div element that contains the map */
-#map {
-  height: 400px;
-  /* The height is 400 pixels */
-  width: 100%;
-  /* The width is the width of the web page */
+/* Flex-container centered */
+.columns {
+  display: flex;
+  flex-flow: row wrap;
+  align-items: top;
+  justify-content: center;
+  text-align:center;
+}
+
+/* Container holding the image and the text */
+.img_container {
+  position: relative;
+  text-align: center;
+  color: white;
+}
+
+/* Bottom center legend text */
+.img_legend {
+  position: absolute;
+  bottom: 5px;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-family: Arial,sans-serif;
+  font-style: italic;
+  font-weight: lighter;
 }
