@@ -5,6 +5,6 @@ title: Remerciements
 
 L'AGAS remercie la Ville de Genève ainsi que le canton de Genève pour leur soutient.
 
-![Soutien Ville de Genève](/assets/img/SoutienVilleDeGE.jpg "Soutien Ville de Genève")
+![Soutien Ville de Genève](/assets/img/SoutienVilleDeGE.png "Soutien Ville de Genève")
 
 [![Fonds du Sport](/assets/img/FDS_petit.png)](https://fondsdusport.ch/accueil/)
