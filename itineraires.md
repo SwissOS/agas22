@@ -14,7 +14,7 @@ L'AGAS propose essentiellement 3 itinéraires:
 
 
 <div class="columns">
- <div style="flex:33%;padding:10px">
+ <div style="flex-basis:301px;padding:10px">
   <div class="img_container">
    <img src="/assets/img/Pas-de-l-echelle.jpg" alt="Le Pas de l'échelle" width="281" height="394">
    <div class="img_legend">Pas de l'échelle</div>
@@ -23,7 +23,7 @@ L'AGAS propose essentiellement 3 itinéraires:
   <br>2h de montée
  </p>
  </div>
- <div style="flex:33%;padding:10px">
+ <div style="flex-basis:301px;padding:10px">
   <div class="img_container">
    <img src="/assets/img/Grande-Gorge.jpg" alt="La Grande Gorge" width="281" height="394">
    <div class="img_legend">La Grande Gorge</div>
@@ -33,7 +33,7 @@ L'AGAS propose essentiellement 3 itinéraires:
   </p>
  </div>
  
- <div style="flex:33%;padding:10px">
+ <div style="flex-basis:301px;padding:10px">
   <div class="img_container">
    <img src="/assets/img/Corraterie.jpg" alt="La Corraterie" width="281" height="394">
    <div class="img_legend">La Corraterie</div>
