@@ -27,7 +27,7 @@ span.emoji {
 /* Flex-container centered */
 .columns {
   display: flex;
-  flex-flow: column wrap;
+  flex-flow: row wrap;
   align-items: top;
   justify-content: center;
   text-align:center;
