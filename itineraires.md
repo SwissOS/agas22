@@ -8,9 +8,9 @@ Il y a une multitude d'itinéraires pour randonner au Salève. L'AGAS propose qu
 
 L'AGAS propose essentiellement 3 itinéraires:
 
-* Le Pas de l'échelle (moyennement difficile, en rouge sur la carte ci-dessous)
-* La Grande Gorge (difficile, en orange sur la carte)
-* Orjobet - La Corraterie (difficile, en rouge/blanc sur la carte)
+* Le Pas de l'échelle (*moyennement difficile,* en rouge sur la carte ci-dessous)
+* La Grande Gorge (*difficile,* en orange sur la carte)
+* Orjobet - La Corraterie (*difficile,* en rouge/blanc sur la carte)
 
 
 <div class="columns">
