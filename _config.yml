@@ -88,9 +88,9 @@ paginate_path: "/articles/page:num/"
 
 # Select which social network share links to show in posts
 share-links-active:
-  twitter: true
-  facebook: true
-  linkedin: true
+  twitter: false
+  facebook: false
+  linkedin: false
   vk: false
 
 # How to display the link to your website in the footer
@@ -249,7 +249,6 @@ defaults:
     values:
       layout: "post"
       footer-extra: "footer-disclaimer.html"
-      social-share: true # add social media sharing buttons to all blog posts
   -
     scope:
       path: "" # any file that's not a post will be a "page" layout by default
