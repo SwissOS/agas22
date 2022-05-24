@@ -7,23 +7,19 @@
   line-height: 2;
   letter-spacing: .0625rem;
 }
-
 .welcome_bg {
   width: 100%;
   background-color: #fee6cc;
 }
-
 span.emoji {
   font-size: 30px;
   vertical-align: middle;
   line-height: 2;
 }
-
 .box-error,
 .box-warning {
   font-family: 'Courier New', monospace;
 }
-
 /* Flex-container centered */
 .columns {
   display: flex;
@@ -32,22 +28,13 @@ span.emoji {
   justify-content: center;
   text-align:center;
 }
-
-/* If screen large enough, display in row */
-@media (min-width: 768px) {
-  .columns {
-    flex-flow: row wrap;
-  }
-}
-
 /* Container holding the image and the text */
 .img_container {
   position: relative;
   text-align: center;
   color: white;
 }
-
-/* Bottom center legend text */
+/* Put text legend at bottom center */
 .img_legend {
   position: absolute;
   bottom: 5px;
@@ -57,13 +44,105 @@ span.emoji {
   font-style: italic;
   font-weight: lighter;
 }
-
-/* Change H1 style */
-.container-md h3{
-  font-family: 'Raleway', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+/*!
+ * Font Awesome Free 5.12.1 by @fontawesome - https://fontawesome.com
+ * License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License)
+ */
+.fa,
+.fab,
+.fad,
+.fal,
+.far,
+.fas {
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+  display: inline-block;
+  font-style: normal;
+  font-variant: normal;
+  text-rendering: auto;
+  line-height: 1;
+}
+.fa-lg {
+  font-size: 1.33333em;
+  line-height: 0.75em;
+  vertical-align: -0.0667em;
+}
+.fa-stack {
+  display: inline-block;
+  height: 2em;
+  line-height: 2em;
+  position: relative;
+  vertical-align: middle;
+  width: 2.5em;
+}
+.fa-stack-1x,
+.fa-stack-2x {
+  left: 0;
+  position: absolute;
+  text-align: center;
+  width: 100%;
+}
+.fa-stack-1x {
+  line-height: inherit;
+}
+.fa-stack-2x {
+  font-size: 2em;
+}
+.fa-inverse {
+  color: #fff;
+}
+.fa-circle:before {
+  content: "\f111";
+}
+.fa-envelope:before {
+  content: "\f0e0";
+}
+.fa-facebook:before {
+  content: "\f09a";
+}
+.fa-phone:before {
+  content: "\f095";
+}
+.fa-telegram-plane:before {
+  content: "\f3fe";
+}
+.sr-only {
+  border: 0;
+  clip: rect(0, 0, 0, 0);
+  height: 1px;
+  margin: -1px;
+  overflow: hidden;
+  padding: 0;
+  position: absolute;
+  width: 1px;
+}
+@font-face {
+        font-family: "Font Awesome 5 Brands";
+        font-style: normal;
+        font-weight: 400;
+        src: local("Font Awesome 5 Brands"), url(../webfonts/fa-brands-400.sub.woff2) format("woff2");
+        unicode-range: U+f09a,U+f3fe;
+}
+@font-face {
+        font-family: "Font Awesome 5 Free Solid";
+        font-style: normal;
+        font-weight: 400;
+        src: local("Font Awesome 5 Free Solid"), url(../webfonts/fa-solid-900.sub.woff2) format("woff2");
+        unicode-range: U+f095,U+f0e0,U+f111;
+}
+.fab {
+  font-family: "Font Awesome 5 Brands";
+}
+.fab,
+.far {
   font-weight: 400;
-  font-size: 3.75rem;
-  line-height: 1.31667;
-  letter-spacing: .01em;
-  padding-bottom: 1rem;
+}
+.fa,
+.far,
+.fas {
+  font-family: "Font Awesome 5 Free Solid";
+}
+.fa,
+.fas {
+  font-weight: 900;
 }
