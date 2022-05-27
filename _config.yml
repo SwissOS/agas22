@@ -19,6 +19,7 @@ navbar-links:
     - Itinéraires: "itineraires"
     - Autour du Salève: "autour"
   L'association:
+    - Présentation: "agas"
     - Avertissement / Disclaimer: "disclaimer"
     - Statuts: "statuts"
     - Assemblée générale: "ag"
