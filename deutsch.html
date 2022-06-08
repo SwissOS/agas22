@@ -35,8 +35,21 @@ share-description: Kostenlose Wanderungen auf den Salève jeden Sonntag um 10 Uh
 Je nach Anzahl der anwesenden freiwilligen Guides können <a href="/itineraires">mehrere Routen vorgeschlagen werden.</a>
 Je nach gewählter Route, dauert die Wanderung 5 bis 8 Stunden, davon 3 Stunden bergauf im stetigen Rhythmus (800 Meter Höhenunterschied). Gute Wanderschuhe, im Winter Steigeisen , im Sommer Kopfbedeckung und Sonnencreme, ein oder zwei Stöcke, um das Gewicht besser zu verteilen und die Gelenke zu schonen (sie werden Ihnen dies später danken), Regenkleidung, Pass, Geld, Picknick und Getränke sowie eine gute körperliche Verfassung sind Voraussetzung.</p>
 
+<h2 id="nextMeeting"></h2>
+
 <div class="box-warning">
 <p>Man braucht unbedingt <strong>eine gute körperliche Verfassung</strong> und gutes Schuhwerk (keine Barfußschuhe, Flip-Flops usw.!).
 Der Salève ist ein echter Berg, der nach dem Mont-Blanc in Hochsavoyen am zweithäufigsten zum Tode führt.
 <br>Nehmen Sie auch ausreichend Wasser mit, da es entlang der Wanderwege auf dem Salève keine Quellen gibt.</p>
 </div>
+
+<script>
+var d = new Date();
+d.setDate(d.getDate() + (7 + 7 - d.getDay()) % 7);
+if(d.getDay() == 7 && d.getHours() > 9){
+d.setDate(d.getDate() + 7 );
+}
+var options = {'weekday': 'long', 'month': 'long', 'day': '2-digit', 'year': 'numeric'};
+var date = d.toLocaleString('de-DE', options);
+document.getElementById('nextMeeting').innerHTML = "Nächstes Treffen: "+date.toString();
+</script>
