@@ -34,7 +34,20 @@ share-description: Caminatas gratuitas en la Salève todos los domingos a las 10
 Dependiendo del número de guías voluntarios presentes, <a href="/itineraires">se pueden ofrecer varias rutas.</a>
 Contar entre 5 y 8 horas de marcha (de las cuales 3 horas de subida - 800 m de desnivel). Se recomiendan buenas botas de marcha, impermeable, pasaporte, euros, comida y bebida (pic-nic); es indispensable tener una buena condición física.</p>
 
+<h2 id="nextMeeting"></h2>
+
 <div class="box-warning">
 <p><strong>Una buena condición física</strong> y un buen calzado (¡nada de pies descalzos, chanclas, etc.!) son absolutamente necesarios. El Salève es una auténtica montaña, la segunda más mortífera después del Mont-Blanc en la Alta Saboya.
 <br>Lleve también suficiente agua, ya que no hay manantiales en los senderos de la Salève.</p>
 </div>
+
+<script>
+var d = new Date();
+d.setDate(d.getDate() + (7 + 7 - d.getDay()) % 7);
+if(d.getDay() == 7 && d.getHours() > 9){
+d.setDate(d.getDate() + 7 );
+}
+var options = {'weekday': 'long', 'month': 'long', 'day': '2-digit', 'year': 'numeric'};
+var date = d.toLocaleString('es-ES', options);
+document.getElementById('nextMeeting').innerHTML = "Próximo encuentro: "+date.toString();
+</script>
