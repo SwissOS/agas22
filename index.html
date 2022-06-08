@@ -3,7 +3,6 @@ layout: page
 share-title: Randonner au Salève avec l'AGAS
 share-description: Randonnées gratuites au Salève tous les dimanches à 10h. Pas d'inscription nécessaire, venez directement au point de rendez-vous.
 ---
-
 <div class="welcome">
    <div style="align:right;padding: 0 1.5rem 0">
     Hello<br>
@@ -35,6 +34,8 @@ share-description: Randonnées gratuites au Salève tous les dimanches à 10h. P
 Suivant le nombre de guides bénévoles présents, <a href="/itineraires">plusieurs itinéraires pourront être proposés.</a>
 Selon le circuit choisi, comptez 5 à 8 heures de marche, dont 3 heures de montée à un rythme soutenu (800 mètres de dénivelé). Départ à pied du point de RDV. De bonnes chaussures de marche (crampons en hiver si glace, chapeau et crème solaire en été), un ou deux bâtons afin de partager son poids pour économiser ses articulations (elles vous remercieront plus tard...), veste imperméable, passeport, argent, pique-nique et boisson ainsi qu'une bonne condition physique sont indispensables.
 
+<h2 id="nextMeeting"></h2>
+
 <div class="box-warning">
 <p>Il faut absolument <strong>une bonne condition physique</strong> et de bonnes chaussures (pas de nu-pieds, tongs, etc!) Le Salève est une vraie montagne, la deuxième la plus meurtrière après le Mont-Blanc en Haute-Savoie.
 <br>Emportez également suffisament d'eau car il n'y a pas de sources le long des sentiers du Salève.<p>
@@ -43,3 +44,14 @@ Selon le circuit choisi, comptez 5 à 8 heures de marche, dont 3 heures de mont�
 <hr>
 <h2>Samedis libres (sorties non accompagnées)</h2>
 <p>Les personnes intéressées par une montée au Salève à pied les samedis (sans la présence d'un responsable de l'AGAS) peuvent venir les samedis à 10h heures au terminus du bus 8 à Veyrier-Douane (route du Pas-de-l'Echelle 111, 1255 Veyrier et non à Veyrier-Tournettes), à 100 mètres de la douane (=frontière Suisse/France) côté Suisse, départ à 10h03.</p>
+
+<script>
+var d = new Date();
+d.setDate(d.getDate() + (7 + 7 - d.getDay()) % 7);
+if(d.getDay() == 7 && d.getHours() > 9){
+d.setDate(d.getDate() + 7 );
+}
+var options = {'weekday': 'long', 'month': 'long', 'day': '2-digit', 'year': 'numeric'};
+var date = d.toLocaleString('fr-CH', options);
+document.getElementById('nextMeeting').innerHTML = "Prochain rendez-vous: "+date.toString();
+</script>
