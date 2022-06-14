@@ -46,7 +46,7 @@ Der Salève ist ein echter Berg, der nach dem Mont-Blanc in Hochsavoyen am zweit
 <script>
 var d = new Date();
 d.setDate(d.getDate() + (7 + 7 - d.getDay()) % 7);
-if(d.getDay() == 7 && d.getHours() > 9){
+if(d.getDay() == 0 && d.getHours() > 9){
 d.setDate(d.getDate() + 7 );
 }
 var options = {'weekday': 'long', 'month': 'long', 'day': '2-digit', 'year': 'numeric'};
