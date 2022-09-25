@@ -28,7 +28,7 @@ L'AGAS propose essentiellement 3 sentiers:
    <img src="/assets/img/Grande-Gorge.jpg" alt="La Grande Gorge" width="281" height="394">
    <div class="img_legend">La Grande Gorge</div>
   </div>
-  <p>Grande gorge: sentier dans les bois, relativement raide par endroits (<strong>difficile</strong>).
+  <p>Grande Gorge: sentier dans les bois, relativement raide par endroits (<strong>difficile</strong>).
    <br>3 heures de montée
   </p>
  </div>
