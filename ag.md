@@ -18,5 +18,5 @@ C'est également le moment propice pour les membres de prendre la parole et de f
 
 ## Comptes rendus des dernières assemblées générales
 
-* [Rapport annuel 2022]({% post_url 2022-02-22-rapport-annuel-2022 %})
+* [Rapport annuel 2022]({% post_url 2023-02-22-rapport-annuel-2022 %})
 * [Rapport annuel 2021]({% post_url 2022-01-01-rapport-annuel-2021 %})
