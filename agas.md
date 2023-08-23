@@ -21,5 +21,5 @@ L'idée initiale de l'AGAS a été lancée en 1996 par David Viry et l'associati
 ## et... les points négatifs de l'AGAS :
 
 * Toujours la même montagne.
-* Montée raide (et souvent sans préchauffement préalable).
+* Montée raide (et souvent sans échauffement préalable).
 * Départ tardif.
