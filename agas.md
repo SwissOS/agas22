@@ -9,7 +9,7 @@ L'idée initiale de l'AGAS a été lancée en 1996 par David Viry et l'associati
 
 ## Les points positifs de l'AGAS :
 
-* Rendez-vous fixe [(10h00 au terminus du bus TPG 8 à Veyrier-Douane).](/infos-pratiques)
+* Rendez-vous fixe [(tous les dimanches au terminus du bus TPG 8 à Veyrier-Douane).](/infos-pratiques)
 * Pas d'inscription préalable.
 * En général, pas de distances à parcourir en voiture, autocar, train.
 * Pas besoin de se lever tôt.
