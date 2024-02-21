@@ -242,6 +242,8 @@ paginate: 5
 kramdown:
   input: GFM
 
+url: https://www.saleve.xyz
+
 # Default YAML values (more information on Jekyll's site)
 defaults:
   -
@@ -256,7 +258,7 @@ defaults:
       path: "" # any file that's not a post will be a "page" layout by default
     values:
       layout: "page"
-      cover-img: "/assets/img/saleve-banner.jpg"
+      cover-img: /assets/img/saleve-banner.jpg
       footer-extra: "footer-disclaimer.html"
 
 #      comments: true  # add comments to all blog posts
