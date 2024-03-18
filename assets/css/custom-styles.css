@@ -106,6 +106,9 @@ span.emoji {
 .fa-telegram-plane:before {
   content: "\f3fe";
 }
+.fa-whatsapp:before {
+    content:"\f232"
+}
 .sr-only {
   border: 0;
   clip: rect(0, 0, 0, 0);
