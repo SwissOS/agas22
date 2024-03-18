@@ -13,7 +13,7 @@ Vous pouvez nous contacter par les moyens de communication suivants:
      <i class="fas fa-phone fa-stack-1x fa-inverse"></i>
    </span>
    <span class="sr-only">Phone</span>
-   Appeler David par téléphone (fondateur de l'association).
+   Appeler Monika par téléphone (présidente de l'association).
    </a>
 </p>
 <p><a href="mailto:{{ site.social-network-links.email }}" title="Email me">
