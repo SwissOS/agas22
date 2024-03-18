@@ -13,7 +13,7 @@ Vous pouvez nous contacter par les moyens de communication suivants:
      <i class="fas fa-phone fa-stack-1x fa-inverse"></i>
    </span>
    <span class="sr-only">Phone</span>
-   Appeler Monika par téléphone (présidente de l'association).
+   Appeler Monika par téléphone (présidente de l'association): +41 22 557 75 93
    </a>
 </p>
 <p><a href="mailto:{{ site.social-network-links.email }}" title="Email me">
@@ -22,7 +22,7 @@ Vous pouvez nous contacter par les moyens de communication suivants:
       <i class="fas fa-envelope fa-stack-1x fa-inverse"></i>
     </span>
     <span class="sr-only">Email me</span>
-    Contacter l'association par email.
+    Contacter l'association par email (agas@saleve.xyz).
    </a>
 </p>
 <p><a href="https://www.facebook.com/{{ site.social-network-links.facebook }}" title="Facebook">
