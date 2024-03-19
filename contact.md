@@ -43,3 +43,12 @@ Vous pouvez nous contacter par les moyens de communication suivants:
     Telegram: Daniel (un guide bénévole et créateur de ce site)
    </a>
 </p>
+<p><a href="https://wa.me/{{ site.social-network-links.whatsapp }}" title="Whatsapp">
+    <span class="fa-stack fa-lg" aria-hidden="true">
+      <i class="fas fa-circle fa-stack-2x"></i>
+      <i class="fab fa-whatsapp fa-stack-1x fa-inverse"></i>
+    </span>
+    <span class="sr-only">Whatsapp</span>
+    Whatsapp: Maryse (une guide bénévole)
+   </a>
+</p>
