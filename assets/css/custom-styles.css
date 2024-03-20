@@ -107,7 +107,7 @@ span.emoji {
   content: "\f3fe";
 }
 .fa-whatsapp:before {
-    content:"\f232"
+    content:"\f232";
 }
 .sr-only {
   border: 0;
