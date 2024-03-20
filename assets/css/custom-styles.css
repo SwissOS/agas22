@@ -124,7 +124,7 @@ span.emoji {
         font-style: normal;
         font-weight: 400;
         src: local("Font Awesome 5 Brands"), url(../webfonts/fa-brands-400.sub.woff2) format("woff2");
-        unicode-range: U+f09a,U+f3fe;
+        unicode-range: U+f09a,U+f232,U+f3fe;
 }
 @font-face {
         font-family: "Font Awesome 5 Free Solid";
