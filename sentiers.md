@@ -8,7 +8,7 @@ Il y a une multitude de sentiers pour randonner au Salève. L'AGAS propose que l
 
 L'AGAS propose essentiellement 3 sentiers:
 
-* **Le Pas de l'échelle** (*moyennement difficile,* en rouge sur la carte ci-dessous) <br>[Descriptif technique du sentier du Pas de l'échelle disponible ici](https://rando-saleve.net/eglmonnetier.html)
+* **Le Pas de l'échelle** (*moyennement difficile,* en rouge sur la carte ci-dessous) <br>[Descriptif technique du sentier du Pas de l'échelle disponible ici](https://rando-saleve.net/eglmonnetier.html) <br>et [ici pour la deuxième partie depuis Monnetier](https://rando-saleve.net/itiner.html#ma1ancre)
 * **La Grande Gorge** (*difficile,* en orange sur la carte) <br>[Descriptif technique du sentier de la Grande Gorge disponible ici](https://rando-saleve.net/salevr4g.html)
 * **Orjobet - La Corraterie** (*difficile,* en rouge/blanc sur la carte) <br>[Descriptif technique du sentier d'Orjobet disponible ici](https://rando-saleve.net/salevr4o.html)
 
