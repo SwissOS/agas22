@@ -14,4 +14,4 @@ Vous voulez juste nous soutenir, sans pour autant faire partie d'un club? Faites
 IBAN : CH29 0840 1000 0724 9226 0 \
 Bénéficiaire : Association genevoise des amis du Salève (AGAS), 1202 Genève \
 QR code pour paiement e-banking:\
-[QR-code](qr-code.png)
+![QR-code](/assets/img/qr-code.png "qr-code")
