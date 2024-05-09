@@ -4,5 +4,5 @@ title: Uptime
 share-title: Uptime page
 ---
 
-<h2>Uptime page</h2>
+## Uptime page
 Everything is fine
