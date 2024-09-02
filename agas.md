@@ -5,11 +5,11 @@ share-title: L'association genevoise des amis du Salève se présente
 share-description: L'association genevoise des amis du Salève se présente
 ---
 # L'Association Genevoise des Amis du Salève (AGAS)
-L'idée initiale de l'AGAS a été lancée en 1996 par David Viry et l'association a été fondée lors de la première assemblée générale en 1998 [(voir les statuts).](/statuts)
+L'idée initiale de l'AGAS a été lancée en 1996 par David Viry et l'association a été fondée lors de la première assemblée générale en 1998 [(voir les statuts).](/statuts/)
 
 ## Les points positifs de l'AGAS :
 
-* Rendez-vous fixe [(tous les dimanches au terminus du bus TPG 8 à Veyrier-Douane).](/infos-pratiques)
+* Rendez-vous fixe [(tous les dimanches au terminus du bus TPG 8 à Veyrier-Douane).](/infos-pratiques/)
 * Pas d'inscription préalable.
 * En général, pas de distances à parcourir en voiture, autocar, train.
 * Pas besoin de se lever tôt.
