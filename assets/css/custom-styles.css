@@ -149,6 +149,10 @@ span.emoji {
 .fas {
   font-weight: 900;
 }
+footer .kb-club {
+  text-align: center;
+  margin: 0.625rem 0 0;
+}
 .kb-club a {
 	text-decoration: none;
   color: #212121;
