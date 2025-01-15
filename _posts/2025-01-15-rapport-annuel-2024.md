@@ -42,7 +42,7 @@ Randonnées hors dimanches:
 
 ## Activités associatives
 
-**L’assemblée générale 2024** s’est tenue le 14 mars à l’Espace de quartier Soubeyran, 1203 Genève, en présence de dix membres votants. Le procès-verbal est disponible sur le site web de l’AGAS ici.
+**L’assemblée générale 2024** s’est tenue le 14 mars à l’Espace de quartier Soubeyran, 1203 Genève, en présence de dix membres votants. Le procès-verbal est disponible [ici.](/assets/pdf/pvag24.pdf)
 
 Au moment de l’assemblée générale, la liste de contact de l’AGAS comportait 123 adresses mail. Après un nettoyage initial de la liste nous avons contacté 106 personnes au mois d’avril, leur demandant si elles voulaient toujours recevoir nos messages, et les invitant à verser une cotisation de CHF 15 pour l’année. Conformément à la [nouvelle loi sur la protection des données](https://www.fedlex.admin.ch/eli/oc/2022/491/fr), entrée en vigueur le 1er septembre 2023, nous avons effacé les données des personnes qui se sont désabonnées. Au 31 décembre 2024, la liste comportait 102 noms (97 adresses mail), dont 35 membres cotisants. La page « [mentions légales](/legal/) » sur le site web de l’AGAS explique comment nous traitons les données.
 
@@ -371,10 +371,10 @@ Remarques :
                     <p style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;margin-left:0cm;font-size:15px;font-family:"Calibri",sans-serif;'><span style="font-family:  Calibri;">Allum&eacute;es</span></p>
                 </td>
                 <td style="width:47.05pt;border:none;border-bottom:solid #A6A6A6 1.0pt;background:#F2F2F2;padding:0cm 5.4pt 0cm 5.4pt;height:12.75pt;">
-                    <p style='margin-top:1.0pt;margin-right:0cm;margin-bottom:1.0pt;margin-left:0cm;font-size:15px;font-family:"Calibri",sans-serif;text-align:center;'>&nbsp;</p>
+                    <p style='margin-top:1.0pt;margin-right:0cm;margin-bottom:1.0pt;margin-left:0cm;font-size:15px;font-family:"Calibri",sans-serif;text-align:center;'><span style="color:black;">1</span></p>
                 </td>
                 <td style="width:47.05pt;border:none;border-bottom:solid #A6A6A6 1.0pt;background:#F2F2F2;padding:0cm 5.4pt 0cm 5.4pt;height:12.75pt;">
-                    <p style='margin-top:1.0pt;margin-right:0cm;margin-bottom:1.0pt;margin-left:0cm;font-size:15px;font-family:"Calibri",sans-serif;text-align:center;'>&nbsp;</p>
+                    <p style='margin-top:1.0pt;margin-right:0cm;margin-bottom:1.0pt;margin-left:0cm;font-size:15px;font-family:"Calibri",sans-serif;text-align:center;'><span style="color:black;">5</span></p>
                 </td>
                 <td style="width:47.05pt;border-top:none;border-left:none;border-bottom:solid #A6A6A6 1.0pt;border-right:solid white 6.0pt;background:#F2F2F2;padding:0cm 5.4pt 0cm 5.4pt;height:12.75pt;">
                     <p style='margin-top:1.0pt;margin-right:0cm;margin-bottom:1.0pt;margin-left:0cm;font-size:15px;font-family:"Calibri",sans-serif;text-align:center;'><strong><span style="font-size:16px;color:black;">6</span></strong></p>
