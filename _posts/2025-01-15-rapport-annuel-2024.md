@@ -582,28 +582,28 @@ IMAGE
                 </td>
             </tr>
             <tr>
-                <td style="width:34.75pt;border:none;border-bottom:solid windowtext 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:12.75pt;">
+                <td style="width:34.75pt;border:none;padding:0cm 5.4pt 0cm 5.4pt;height:12.75pt;">
                     <p style='margin-top:1.0pt;margin-right:0cm;margin-bottom:1.0pt;margin-left:0cm;font-size:15px;font-family:"Calibri",sans-serif;text-align:center;'><strong><span style="font-size:16px;font-family:Calibri;">17</span></strong></p>
                 </td>
-                <td style="width:164.85pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid white 6.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:12.75pt;">
+                <td style="width:164.85pt;border-top:none;border-left:none;border-bottom:none;border-right:solid white 6.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:12.75pt;">
                     <p style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;margin-left:0cm;font-size:15px;font-family:"Calibri",sans-serif;'><span style="font-family:  Calibri;color:black;">Ponts de la Caille&ndash;Gen&egrave;ve</span></p>
                 </td>
-                <td style="width:47.05pt;border:none;border-bottom:solid windowtext 1.0pt;background:#F2F2F2;padding:0cm 5.4pt 0cm 5.4pt;height:12.75pt;">
+                <td style="width:47.05pt;border:none;border-bottom:none;background:#F2F2F2;padding:0cm 5.4pt 0cm 5.4pt;height:12.75pt;">
                     <p style='margin-top:1.0pt;margin-right:0cm;margin-bottom:1.0pt;margin-left:0cm;font-size:15px;font-family:"Calibri",sans-serif;text-align:center;'><span style="font-family:Calibri;color:#339933;">&nbsp;</span></p>
                 </td>
-                <td style="width:47.05pt;border:none;border-bottom:solid windowtext 1.0pt;background:#F2F2F2;padding:0cm 5.4pt 0cm 5.4pt;height:12.75pt;">
+                <td style="width:47.05pt;border:none;border-bottom:none;background:#F2F2F2;padding:0cm 5.4pt 0cm 5.4pt;height:12.75pt;">
                     <p style='margin-top:1.0pt;margin-right:0cm;margin-bottom:1.0pt;margin-left:0cm;font-size:15px;font-family:"Calibri",sans-serif;text-align:center;'><span style="font-family:Calibri;color:#339933;">&nbsp;</span></p>
                 </td>
-                <td style="width: 47.05pt;border-width: medium 6pt 1pt medium;border-style: none solid solid none;border-color: currentcolor white windowtext currentcolor;background: rgb(242, 242, 242);padding: 0cm 5.4pt;height: 12.75pt;vertical-align: top;">
+                <td style="width: 47.05pt;border-width: medium 6pt 1pt medium;border-style: none solid none none;border-color: currentcolor white windowtext currentcolor;background: rgb(242, 242, 242);padding: 0cm 5.4pt;height: 12.75pt;vertical-align: top;">
                     <p style='margin-top:1.0pt;margin-right:0cm;margin-bottom:1.0pt;margin-left:0cm;font-size:15px;font-family:"Calibri",sans-serif;text-align:center;'><strong><span style="font-size:16px;color:black;">2</span></strong></p>
                 </td>
-                <td style="width: 47.05pt;border-width: medium medium 1pt;border-style: none none solid;border-color: currentcolor currentcolor windowtext;border-image: none;background: rgb(224, 255, 193);padding: 0cm 5.4pt;height: 12.75pt;vertical-align: top;">
+                <td style="width: 47.05pt;border-width: medium medium 1pt;border-style: none none none;background: rgb(224, 255, 193);padding: 0cm 5.4pt;height: 12.75pt;vertical-align: top;">
                     <p style='margin-top:1.0pt;margin-right:0cm;margin-bottom:1.0pt;margin-left:0cm;font-size:15px;font-family:"Calibri",sans-serif;text-align:center;'><span style="font-family:Calibri;color:#339933;">&nbsp;</span></p>
                 </td>
-                <td style="width: 47.05pt;border-width: medium medium 1pt;border-style: none none solid;border-color: currentcolor currentcolor windowtext;border-image: none;background: rgb(224, 255, 193);padding: 0cm 5.4pt;height: 12.75pt;vertical-align: top;">
+                <td style="width: 47.05pt;border-width: medium medium 1pt;border-style: none none none;background: rgb(224, 255, 193);padding: 0cm 5.4pt;height: 12.75pt;vertical-align: top;">
                     <p style='margin-top:1.0pt;margin-right:0cm;margin-bottom:1.0pt;margin-left:0cm;font-size:15px;font-family:"Calibri",sans-serif;text-align:center;'><span style="font-family:Calibri;color:#339933;">&nbsp;</span></p>
                 </td>
-                <td style="width: 47.1pt;border-width: medium medium 1pt;border-style: none none solid;border-color: currentcolor currentcolor windowtext;border-image: none;background: rgb(224, 255, 193);padding: 0cm 5.4pt;height: 12.75pt;vertical-align: top;">
+                <td style="width: 47.1pt;border-width: medium medium 1pt;border-style: none none none;background: rgb(224, 255, 193);padding: 0cm 5.4pt;height: 12.75pt;vertical-align: top;">
                     <p style='margin-top:1.0pt;margin-right:0cm;margin-bottom:1.0pt;margin-left:0cm;font-size:15px;font-family:"Calibri",sans-serif;text-align:center;'><strong><span style="color:black;">4</span></strong></p>
                 </td>
             </tr>
