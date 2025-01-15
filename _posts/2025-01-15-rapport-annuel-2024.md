@@ -1,3 +1,8 @@
+---
+layout: post
+thumbnail-img: /assets/img/AG2024.jpg
+title: Rapport annuel 2024
+---
 # Bienvenue
 
 « Tous les dimanches, les amoureux de randonnées pédestres se donnent rendez-vous à Veyrier-Douane. Il n y a pas d'inscription préalable. » Depuis près de 30 ans, cette invitation est ouverte à tout un chacun qui a envie de monter au Salève avec nous. C’est une formule assez unique et très réussie. En mars 2024, le président-fondateur de l’Association genevoise des amis du Salève, David Viry, a passé le flambeau à une nouvelle équipe. Nous vous présentons ici notre premier rapport annuel.
