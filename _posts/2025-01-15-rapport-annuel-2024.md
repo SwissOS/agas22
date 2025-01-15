@@ -75,7 +75,7 @@ Nous sommes maintenant bien visibles sur les chemins du Salève.
 Nous avons produit de nouveaux flyers que nous avons distribués à l’Office de Tourisme de Genève, à l’Espace de la Ville de Genève, à la mairie de Veyrier, à l’Auberge de Jeunesse de Genève, au téléphérique et au bureau du Syndicat Mixte du Salève.
 
 <p align="center">
-    ![Flyer AGAS](/assets/img/flyer Saleve.png) ![Flyer AGAS](/assets/img/flyer Saleve2.png)
+    <img src="/assets/img/flyer Saleve.png" alt="Flyer AGAS"> <img src="/assets/img/flyer Saleve2.png" alt="Flyer AGAS verso">
 </p>
 
 Le flyer a été reproduit dans le journal de la commune « Vivez Veyrier » , édition distribuée le 28 octobre 2024.
@@ -87,7 +87,7 @@ Une affiche du même style se trouve au point de rendez-vous à Veyrier-Douane, 
 Nous avons aussi fait des cartes de visite que nous donnons à ceux qui s’intéressent à nos randonnées.
 
 <p align="center">
-    ![Carte de visite AGAS](/assets/img/carte de visite Saleve.png) ![Carte de visite AGAS verso](/assets/img/carte de visite Saleve2.png)
+    <img src="/assets/img/carte de visite Saleve.png" alt="Carte de visite AGAS"> <img src="/assets/img/carte de visite Saleve2.png" alt="Carte de visite AGAS verso">
 </p>
 
 ## Administration
