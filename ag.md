@@ -16,7 +16,7 @@ share-title: Assemblée générale de l'AGAS
 
 C'est également le moment propice pour les membres de prendre la parole et de faire part de leurs interrogations, leurs désirs, leurs frustrations, bref de s'exprimer afin que le Comité puisse avancer d'une manière satisfaisante pour les membres.
 
-## Comptes rendus des dernières assemblées générales
+## Nos derniers rapports annuels
 
 * [Rapport annuel 2023]({% post_url 2024-02-29-rapport-annuel-2023 %})
 * [Rapport annuel 2022]({% post_url 2023-02-22-rapport-annuel-2022 %})
