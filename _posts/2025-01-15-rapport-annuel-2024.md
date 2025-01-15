@@ -1,6 +1,6 @@
 ---
 layout: post
-thumbnail-img: /assets/img/AG2024.jpg
+thumbnail-img: /assets/img/AGAS2024.png
 title: Rapport annuel 2024
 ---
 # Bienvenue
