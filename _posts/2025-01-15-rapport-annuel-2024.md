@@ -3,6 +3,8 @@ layout: post
 thumbnail-img: /assets/img/AGAS2024.png
 title: Rapport annuel 2024
 ---
+<img src="/assets/img/AGAS2024.png" alt="AGAS 2024" class="center">
+
 # Bienvenue
 
 « Tous les dimanches, les amoureux de randonnées pédestres se donnent rendez-vous à Veyrier-Douane. Il n y a pas d'inscription préalable. » Depuis près de 30 ans, cette invitation est ouverte à tout un chacun qui a envie de monter au Salève avec nous. C’est une formule assez unique et très réussie. En mars 2024, le président-fondateur de l’Association genevoise des amis du Salève, David Viry, a passé le flambeau à une nouvelle équipe. Nous vous présentons ici notre premier rapport annuel.
@@ -60,7 +62,11 @@ D'après nos statistiques, les accès par smartphones et tablettes représentent
 
 Etant donné que nos randos sont gratuites il faut une motivation additionnelle pour encourager les marcheurs à adhérer à l’association. En 2024 nous avons offert un t‑shirt ou polo vert avec le logo de l’AGAS à chaque membre, les non-membres ont pu l’acheter au prix de 15 CHF.
 
+<img src="/assets/img/t-shirts et polos Saleve.jpg" alt="T-shirts et Polos de l'AGAS" class="center">
+
 Pour 2025 nous avons commandé des bonnets noirs avec le logo de l’AGAS.
+
+<img src="/assets/img/bonnet Saleve.jpg" alt="Bonnet AGAS" class="center">
 
 Nous sommes maintenant bien visibles sur les chemins du Salève.
 
