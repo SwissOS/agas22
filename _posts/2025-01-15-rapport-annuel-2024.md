@@ -113,7 +113,7 @@ Remarques :
 * Plusieurs itinéraires peuvent être proposés le même jour.  
 * Les chemins en pointillé sur le plan ci-dessous sont sur l’autre versant du Salève.
 
-<img src="/assets/img/chemins du Saleve.png" alt="Chemins de randonnées au Salève" class="center">
+![Chemins de randonnées au Salève](/assets/img/chemins du Saleve.png")
 
 <div>
     <table style="border: none;border-collapse: collapse;width: 644px;">
