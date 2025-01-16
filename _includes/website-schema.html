@@ -1,0 +1,11 @@
+{% if site.title %}
+<script type="application/ld+json">
+    {
+      "@context" : "https://schema.org",
+      "@type" : "WebSite",
+      "name" : "{{ site.title }}",
+      "alternateName" : "{{ site.author }}",
+      "url" : "{{ site.url }}"
+    }
+</script>
+{% endif %}
