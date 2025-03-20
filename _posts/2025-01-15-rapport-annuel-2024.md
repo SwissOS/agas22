@@ -186,7 +186,7 @@ Remarques :
                     <p style='margin-top:1.0pt;margin-right:0cm;margin-bottom:1.0pt;margin-left:0cm;font-size:15px;font-family:"Calibri",sans-serif;text-align:center;'><strong>🚠</strong></p>
                 </td>
                 <td style="width:164.85pt;border-top:none;border-left:none;border-bottom:solid #A6A6A6 1.0pt;border-right:solid white 6.0pt;background:#F2F2F2;padding:0cm 5.4pt 0cm 5.4pt;height:12.75pt;">
-                    <p style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;margin-left:0cm;font-size:15px;font-family:"Calibri",sans-serif;'><span style="font-family:  Calibri;color:black;">T&eacute;l&eacute;ph&eacute;rique</span></p>
+                    <p style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;margin-left:0cm;font-size:15px;font-family:"Calibri",sans-serif;'><span style="font-family:  Calibri;">T&eacute;l&eacute;ph&eacute;rique</span></p>
                 </td>
                 <td style="width:47.05pt;border:none;border-bottom:solid #A6A6A6 1.0pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:12.75pt;">
                     <p style='margin-top:1.0pt;margin-right:0cm;margin-bottom:1.0pt;margin-left:0cm;font-size:15px;font-family:"Calibri",sans-serif;text-align:center;'><span style="color:black;">1</span></p>
@@ -446,7 +446,7 @@ Remarques :
                     <p style='margin-top:1.0pt;margin-right:0cm;margin-bottom:1.0pt;margin-left:0cm;font-size:15px;font-family:"Calibri",sans-serif;text-align:center;'><strong><span style="font-size:16px;font-family:Calibri;">11</span></strong></p>
                 </td>
                 <td style="width:164.85pt;border-top:none;border-left:none;border-bottom:solid #A6A6A6 1.0pt;border-right:solid white 6.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:12.75pt;">
-                    <p style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;margin-left:0cm;font-size:15px;font-family:"Calibri",sans-serif;'><span style="font-family:  Calibri;color:black;">Sentier de la Joie</span></p>
+                    <p style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;margin-left:0cm;font-size:15px;font-family:"Calibri",sans-serif;'><span style="font-family:  Calibri;">Sentier de la Joie</span></p>
                 </td>
                 <td style="width:47.05pt;border:none;border-bottom:solid #A6A6A6 1.0pt;background:#F2F2F2;padding:0cm 5.4pt 0cm 5.4pt;height:12.75pt;">
                     <p style='margin-top:1.0pt;margin-right:0cm;margin-bottom:1.0pt;margin-left:0cm;font-size:15px;font-family:"Calibri",sans-serif;text-align:center;'><span style="font-family:Calibri;">&nbsp;</span></p>
@@ -472,7 +472,7 @@ Remarques :
                     <p style='margin-top:1.0pt;margin-right:0cm;margin-bottom:1.0pt;margin-left:0cm;font-size:15px;font-family:"Calibri",sans-serif;text-align:center;'><strong><span style="font-size:16px;font-family:Calibri;">12</span></strong></p>
                 </td>
                 <td style="width:164.85pt;border-top:none;border-left:none;border-bottom:solid #A6A6A6 1.0pt;border-right:solid white 6.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:12.75pt;">
-                    <p style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;margin-left:0cm;font-size:15px;font-family:"Calibri",sans-serif;'><span style="font-family:  Calibri;color:black;">Croisette- Gd Piton</span></p>
+                    <p style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;margin-left:0cm;font-size:15px;font-family:"Calibri",sans-serif;'><span style="font-family:  Calibri;">Croisette- Gd Piton</span></p>
                 </td>
                 <td style="width:47.05pt;border:none;border-bottom:solid #A6A6A6 1.0pt;background:#F2F2F2;padding:0cm 5.4pt 0cm 5.4pt;height:12.75pt;">
                     <p style='margin-top:1.0pt;margin-right:0cm;margin-bottom:1.0pt;margin-left:0cm;font-size:15px;font-family:"Calibri",sans-serif;text-align:center;'><span style="font-family:Calibri;color:#BE5201;">&nbsp;</span></p>
@@ -498,7 +498,7 @@ Remarques :
                     <p style='margin-top:1.0pt;margin-right:0cm;margin-bottom:1.0pt;margin-left:0cm;font-size:15px;font-family:"Calibri",sans-serif;text-align:center;'><strong><span style="font-size:16px;font-family:Calibri;">13&nbsp;</span></strong></p>
                 </td>
                 <td style="width:164.85pt;border-top:none;border-left:none;border-bottom:solid #A6A6A6 1.0pt;border-right:solid white 6.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:12.75pt;">
-                    <p style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;margin-left:0cm;font-size:15px;font-family:"Calibri",sans-serif;'><span style="font-family:  Calibri;color:black;">Grange Gaby-La Pile-Croisette</span></p>
+                    <p style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;margin-left:0cm;font-size:15px;font-family:"Calibri",sans-serif;'><span style="font-family:  Calibri;">Grange Gaby-La Pile-Croisette</span></p>
                 </td>
                 <td style="width:47.05pt;border:none;border-bottom:solid #A6A6A6 1.0pt;background:#F2F2F2;padding:0cm 5.4pt 0cm 5.4pt;height:12.75pt;">
                     <p style='margin-top:1.0pt;margin-right:0cm;margin-bottom:1.0pt;margin-left:0cm;font-size:15px;font-family:"Calibri",sans-serif;text-align:center;'><span style="font-family:Calibri;color:#BE5201;">&nbsp;</span></p>
@@ -524,7 +524,7 @@ Remarques :
                     <p style='margin-top:1.0pt;margin-right:0cm;margin-bottom:1.0pt;margin-left:0cm;font-size:15px;font-family:"Calibri",sans-serif;text-align:center;'><strong><span style="font-size:16px;font-family:Calibri;">14</span></strong></p>
                 </td>
                 <td style="width:164.85pt;border-top:none;border-left:none;border-bottom:solid #A6A6A6 1.0pt;border-right:solid white 6.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:12.75pt;">
-                    <p style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;margin-left:0cm;font-size:15px;font-family:"Calibri",sans-serif;'><span style="font-family:  Calibri;color:black;">Vovray-Sur les Places-Traversi&egrave;re</span></p>
+                    <p style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;margin-left:0cm;font-size:15px;font-family:"Calibri",sans-serif;'><span style="font-family:  Calibri;">Vovray-Sur les Places-Traversi&egrave;re</span></p>
                 </td>
                 <td style="width:47.05pt;border:none;border-bottom:solid #A6A6A6 1.0pt;background:#F2F2F2;padding:0cm 5.4pt 0cm 5.4pt;height:12.75pt;">
                     <p style='margin-top:1.0pt;margin-right:0cm;margin-bottom:1.0pt;margin-left:0cm;font-size:15px;font-family:"Calibri",sans-serif;text-align:center;'><span style="font-family:Calibri;color:black;">1</span></p>
@@ -550,7 +550,7 @@ Remarques :
                     <p style='margin-top:1.0pt;margin-right:0cm;margin-bottom:1.0pt;margin-left:0cm;font-size:15px;font-family:"Calibri",sans-serif;text-align:center;'><strong><span style="font-size:16px;">15</span></strong></p>
                 </td>
                 <td style="width:164.85pt;border-top:none;border-left:none;border-bottom:solid #A6A6A6 1.0pt;border-right:solid white 6.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:12.75pt;">
-                    <p style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;margin-left:0cm;font-size:15px;font-family:"Calibri",sans-serif;'><span style="font-family:  Calibri;color:black;">Bois Mouton</span></p>
+                    <p style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;margin-left:0cm;font-size:15px;font-family:"Calibri",sans-serif;'><span style="font-family:  Calibri;">Bois Mouton</span></p>
                 </td>
                 <td style="width:47.05pt;border:none;border-bottom:solid #A6A6A6 1.0pt;background:#F2F2F2;padding:0cm 5.4pt 0cm 5.4pt;height:12.75pt;">
                     <p style='margin-top:1.0pt;margin-right:0cm;margin-bottom:1.0pt;margin-left:0cm;font-size:15px;font-family:"Calibri",sans-serif;text-align:center;'><span style="color:black;">2</span></p>
@@ -576,7 +576,7 @@ Remarques :
                     <p style='margin-top:1.0pt;margin-right:0cm;margin-bottom:1.0pt;margin-left:0cm;font-size:15px;font-family:"Calibri",sans-serif;text-align:center;'><strong><span style="font-size:16px;font-family:Calibri;">16</span></strong></p>
                 </td>
                 <td style="width:164.85pt;border-top:none;border-left:none;border-bottom:solid #A6A6A6 1.0pt;border-right:solid white 6.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:12.75pt;">
-                    <p style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;margin-left:0cm;font-size:15px;font-family:"Calibri",sans-serif;'><span style="font-family:  Calibri;color:black;">Grand Piton-La Thuile</span></p>
+                    <p style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;margin-left:0cm;font-size:15px;font-family:"Calibri",sans-serif;'><span style="font-family:  Calibri;">Grand Piton-La Thuile</span></p>
                 </td>
                 <td style="width:47.05pt;border:none;border-bottom:solid #A6A6A6 1.0pt;background:#F2F2F2;padding:0cm 5.4pt 0cm 5.4pt;height:12.75pt;">
                     <p style='margin-top:1.0pt;margin-right:0cm;margin-bottom:1.0pt;margin-left:0cm;font-size:15px;font-family:"Calibri",sans-serif;text-align:center;'><span style="font-family:Calibri;">&nbsp;</span></p>
@@ -602,7 +602,7 @@ Remarques :
                     <p style='margin-top:1.0pt;margin-right:0cm;margin-bottom:1.0pt;margin-left:0cm;font-size:15px;font-family:"Calibri",sans-serif;text-align:center;'><strong><span style="font-size:16px;font-family:Calibri;">17</span></strong></p>
                 </td>
                 <td style="width:164.85pt;border-top:none;border-left:none;border-bottom:none;border-right:solid white 6.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:12.75pt;">
-                    <p style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;margin-left:0cm;font-size:15px;font-family:"Calibri",sans-serif;'><span style="font-family:  Calibri;color:black;">Ponts de la Caille&ndash;Gen&egrave;ve</span></p>
+                    <p style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;margin-left:0cm;font-size:15px;font-family:"Calibri",sans-serif;'><span style="font-family:  Calibri;">Ponts de la Caille&ndash;Gen&egrave;ve</span></p>
                 </td>
                 <td style="width:47.05pt;border:none;border-bottom:none;background:#F2F2F2;padding:0cm 5.4pt 0cm 5.4pt;height:12.75pt;">
                     <p style='margin-top:1.0pt;margin-right:0cm;margin-bottom:1.0pt;margin-left:0cm;font-size:15px;font-family:"Calibri",sans-serif;text-align:center;'><span style="font-family:Calibri;color:#339933;">&nbsp;</span></p>
