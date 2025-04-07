@@ -54,6 +54,7 @@ social-network-links:
   email: "agas@saleve.xyz"
   telephone: "+41225577593"
   facebook: LesAmisduSaleve
+#  instagram: les_amis_du_saleve
   telegram: SaleveOne
   whatsapp: "41765034533"
 #  rss: true  # remove this line if you don't want to show an RSS link at the bottom
@@ -67,7 +68,6 @@ social-network-links:
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
-#  instagram: deanat78
 #  spotify: yourname
 #  steam: deanat78
 #  twitch: yourname
