@@ -5,7 +5,7 @@ share-title: L'association genevoise des amis du Salève se présente
 share-description: L'association genevoise des amis du Salève se présente
 ---
 # L'Association Genevoise des Amis du Salève (AGAS)
-L'idée initiale de l'AGAS a été lancée en 1996 par David Viry et l'association a été fondée lors de la première assemblée générale en 1998 [(voir les statuts).](/statuts/)
+L'idée initiale de l'AGAS a été lancée en 1996 par David Viry et l'association a été fondée lors de la première assemblée générale en 1998 [(voir les statuts).](/statuts/) En 2025, elle a été reconnue d'utilité publique par l'administration fiscale cantonale de Genève.
 
 ## Les points positifs de l'AGAS :
 
