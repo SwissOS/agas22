@@ -10,6 +10,8 @@ Vous voulez faire partie de la base de l’AGAS et participer aux décisions lor
 ## Faire un don
 Vous voulez juste nous soutenir, sans pour autant faire partie d'un club? Faites-nous un don de n'importe quel montant. Même le prix d'un café sera apprécié!
 
+L'AGAS est une association d'utilité publique. Vous pouvez donc déduire votre don dans votre déclaration fiscale. Pour tout don d'au moins 20 CHF, nous vous enverrons automatiquement une attestation de don.
+
 ## Coordonnées bancaires
 IBAN : CH29 0840 1000 0724 9226 0 \
 Bénéficiaire : Association genevoise des amis du Salève (AGAS), 1202 Genève \
