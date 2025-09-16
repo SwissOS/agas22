@@ -2,7 +2,7 @@
 layout: page
 title: Nous soutenir
 ---
-Nos randonnées sont gratuites, mais nous avons quand-même quelques dépenses. Les cotisations annuelles de nos membres en couvrent une partie, et par le passé la [Ville de Genève](/remerciements/) a bien voulu nous soutenir pour équilibrer le budget.
+Nos randonnées sont gratuites, mais nous avons quand-même quelques dépenses. Vos [cotisations et dons](/remerciements/) en couvrent une partie, et par le passé la [Ville de Genève](/remerciements/) a bien voulu nous soutenir pour équilibrer le budget.
 
 ## Devenir membre
 Vous voulez faire partie de la base de l’AGAS et participer aux décisions lors de [l’assemblée générale?](/ag/) Merci d’envoyer vos coordonnées (nom, prénom, email, téléphone, adresse postale) à [{{ site.social-network-links.email }}](mailto:{{ site.social-network-links.email }}?subject=Je voudrais devenir membre), et d’effectuer un virement de 15 CHF sur notre compte (voir ci-dessous).
