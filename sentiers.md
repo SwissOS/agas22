@@ -55,4 +55,4 @@ Au retour, ceux qui n'ont pas laissé leur véhicule à Veyrier font souvent la 
 
 ## Autres sentiers
 
-Suivant la demande, la météo, et la disponibilité des bénévoles, nous proposons d'autres itinéraires au Salève comme Le Bois Mouton, La Sauge, La Thuile, Les Pitons, ou le Petit Salève [(voir les chemins parcourus en 2024, par ordre de fréquence).](/2025-01-15-rapport-annuel-2024/)
+Suivant la demande, la météo, et la disponibilité des bénévoles, nous proposons d'autres itinéraires au Salève comme Le Bois Mouton, La Sauge, La Thuile, Les Pitons, ou le Petit Salève [(voir les chemins parcourus en 2024, par ordre de fréquence).](/2025-01-15-rapport-annuel-2024/#chemins-parcourus)
