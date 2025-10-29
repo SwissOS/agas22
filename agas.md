@@ -16,10 +16,11 @@ L'idée initiale de l'AGAS a été lancée en 1996 par David Viry et l'associati
 * Gratuit.
 * Souvent la possibilité de pique-niquer à l'abri.
 * Souvent la possibilité de descendre en téléphérique.
-* La flexibilité individuelle : étant donné que la plupart du temps il n'y a pas de transport (= départ à pied depuis Veyrier), le marcheur peut se distancer du groupe en allant plus vite ou plus lentement ou en empruntant une autre variante du sentier, ou en choisissant des personnes avec lesquelles il a le plus d'affinité ainsi que, s'il y a plusieurs sous-groupes, la possibilité de choisir le sous-groupe qui lui correspond techniquement et psychologiquement le mieux (du point de vue du sentier choisi, des personnes dans le sous-groupe etc.).
+* Un public varié : habitués et nouveaux, avec une diversité de nationalités, profils, tranches d'âge et niveaux sportifs.
+* La flexibilité individuelle : il y a souvent plusieurs sous-groupes, et le marcheur choisir celui qui lui correspond le mieux (du point de vue du sentier choisi, du rythme de marche, des personnes dans le sous-groupe etc.).
 
 ## et... les points négatifs de l'AGAS :
 
-* Toujours la même montagne.
+* Toujours la même montagne (mais nous empruntons [(différents itinéraires)).](/sentiers/)
 * Montée raide (et souvent sans échauffement préalable).
 * Départ tardif.
