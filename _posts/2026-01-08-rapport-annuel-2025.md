@@ -5,12 +5,13 @@ title: Rapport annuel 2025
 ---
 <h1 id="bienvenue">2025 : le Salève, vu par nos membres </h1>
 
+<p><img src="/assets/img/AGAS-2025.png" alt="AGAS 2025" class="center" /></p>
+
 <p><b>Janvier</b> : le Môle, depuis la crête du Salève (Philippe E) ; <b>février</b> : la terrasse du temple bouddhiste (Daniel P) ; <b>mars</b> : à la gare haute du téléphérique (Conrad B) ; <b>avril</b> : sur le sentier du Pas de l’Echelle (Cathy T) ; <b>mai</b> : le bloc erratique ‘La Plate’ en haut de Chotard (Maryse N) ; <b>juin</b> : la tour Bastian au Grand Piton (Bernard R) ; <b>juillet</b> : le groupe, à la fête de la Thuile (un passant inconnu) ;  <b>août</b> : le drapeau savoyard depuis la Corraterie (Hong F) ; <b>septembre</b> : fête du Salève (Josephine R) ; <b>octobre</b> : couleurs automnales (Florence A) , marche nocturne (Monika Z) ; <b>novembre</b> : au retour du chemin du Facteur (Tatiana K) ; <b>décembre</b> : soleil et givre sur le chemin du Funiculaire (José M).</p>
 
 <p>Rapport rédigé par :<br />
 Monika Zweygarth (présidente)<br />
 Daniel Pfund (vice-président)</p>
-
 
 <h2 id="randonnées">Randonnées</h2>
 <p><img src="/assets/img/2025-Randonnees.jpg" alt="Nos randonneurs au Salève" class="center" /></p>
@@ -63,7 +64,7 @@ Daniel Pfund (vice-président)</p>
 
 <p><b>« Goodies »</b> : En 2025, nous avons offert à nos membres un bonnet d’hiver noir avec le logo de l’AGAS, bien apprécié lors des sorties froides. Pour 2026, nous avons prévu une casquette, à choix entre noire ou kaki. Nous recherchons activement de nouvelles idées de goodies pour les années à venir, alors n’hésitez pas à nous faire des propositions.</p>
 
-<p><b>Site web</b> : Le nombre de visiteurs sur notre site web (<a href="https://www.saleve.xyz/">www.saleve.xyz/</a>) a augmenté de 19% en 2025 pour atteindre 1449 vues. La page principale est la plus visitée, suivie de la page en anglais. En effet, 48% des visiteurs ont leur langue par défaut en anglais, suivi de 39% en français, et 3% en allemand. 67% des visiteurs proviennent de Suisse, 14% de France et 7% des Etats-Unis! 49% des visiteurs consultent le site sur un smartphone (30% iOS, 19% Android), ce qui confirme l’utilité de l’adaptabilité du site aux petits écrans et tablettes.</p>
+<p><b>Site web</b> : Le nombre de visiteurs sur notre site web (<a href="https://www.saleve.xyz">www.saleve.xyz</a>) a augmenté de 19% en 2025 pour atteindre 1449 vues. La page principale est la plus visitée, suivie de la page en anglais. En effet, 48% des visiteurs ont leur langue par défaut en anglais, suivi de 39% en français, et 3% en allemand. 67% des visiteurs proviennent de Suisse, 14% de France et 7% des Etats-Unis! 49% des visiteurs consultent le site sur un smartphone (30% iOS, 19% Android), ce qui confirme l’utilité de l’adaptabilité du site aux petits écrans et tablettes.</p>
 
 <p><b>Groupe WhatsApp</b> : Nous avons un groupe WhatsApp ouvert à tous les randonneurs (membres et non-membres). Il est géré par Maryse et Daniel; n’hésitez pas à les contacter si vous voulez être ajouté au groupe. C’est un groupe dédié au Salève, donc merci de garder les discussions en rapport avec le Salève. Les membres qui participent le dimanche y postent des photos pour le bonheur des randonneurs absents ce jour-là. On discute aussi de propositions hors randonnées habituelles du dimanche, comme des randonnées spéciales qui ne partent pas de Veyrier ou des sorties repas. Il y a actuellement 111 personnes dans le groupe, donc encore une fois, merci de garder les discussions en rapport avec le Salève et de ne pas poster simplement des emojis (il y a des boutons “réagir” pour ça).</p>
 
