@@ -3,7 +3,7 @@ layout: post
 thumbnail-img: /assets/img/AGAS-2025.png
 title: Rapport annuel 2025
 ---
-<h1 id="bienvenue">2025 : le Salève, vu par nos membres </h1>
+<h1 id="bienvenue">2025 : le Salève, vu par nos marcheurs</h1>
 
 <p><img src="/assets/img/AGAS-2025.png" alt="AGAS 2025" class="center" /></p>
 
@@ -38,7 +38,7 @@ Daniel Pfund (vice-président)</p>
 <p><img src="/assets/img/2025-VieAssociative.jpg" alt="Activités de l'Association genevoise des amis du Salève" class="center" /></p>
 
 
-<p><b>Assemblée générale</b> : Elle s’est tenue le 16 mars à la gare haute du téléphérique. Etaient présents, 20 membres votants sur un total de 45 membres cotisants. Le procès-verbal est disponible ici.</p>
+<p><b>Assemblée générale</b> : Elle s’est tenue le 16 mars à la gare haute du téléphérique. Etaient présents, 20 membres votants sur un total de 45 membres cotisants. Le procès-verbal est disponible <a href="/assets/pdf/pvag25.pdf">ici.</a></p>
 
 <p><b>Utilité publique</b> : Comme l’AGAS vise un cercle ouvert de bénéficiaires, n’a pas de but lucratif ni d’entraide mutuelle, et est gérée par des bénévoles,  elle satisfait les critères pour être reconnue d’utilité publique. L’assemblée générale 2025 a approuvé les modifications de statuts requises, et nous avons soumis à l’autorité cantonale une demande d’exonération fiscale. Cette dernière nous a été accordée. L’AGAS est maintenant reconnue comme association d’utilité publique pour cinq ans (2024-2028 compris). Cela veut dire, entre autres, que les dons fait à l’AGAS (mais pas les cotisations) peuvent être déduits du revenu imposable du donneur. </p>
 
@@ -98,11 +98,11 @@ Daniel Pfund (vice-président)</p>
                 <td style="width:34.75pt;border:none;padding:0cm 5.4pt 0cm 5.4pt;height:12.75pt;"></td>
                 <td style="width:164.85pt;border:none;border-right:solid white 6.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:12.75pt;"></td>
                 <td colspan="3" style="width: 141.15pt;border-width: medium 6pt medium medium;border-style: none solid none none;border-color: currentcolor white currentcolor currentcolor;border-image: none;background: rgb(242, 242, 242);padding: 0cm 5.4pt;height: 12.75pt;vertical-align: top;">
-                    <p style="margin-top:1.0pt;margin-right:0cm;margin-bottom:1.0pt;margin-left:0cm;font-size:15px;font-family:&quot;Calibri&quot;,sans-serif;text-align:center;"><strong><span style="font-size:16px;font-family:Calibri;color:black;">Fr&eacute;quence</span></strong><strong><span style="font-size:12px;font-family:Calibri;color:black;"><br /></span></strong><span style="font-size:12px;font-family:Calibri;color:black;">(nombre de fois pris)</span></p>
+                    <p style="margin-top:1.0pt;margin-right:0cm;margin-bottom:1.0pt;margin-left:0cm;font-size:15px;font-family:&quot;Calibri&quot;,sans-serif;text-align:center;"><strong><span style="font-size:16px;font-family:Calibri;color:black;">Fréquence</span></strong><strong><span style="font-size:12px;font-family:Calibri;color:black;"><br /></span></strong><span style="font-size:12px;font-family:Calibri;color:black;">(nombre de fois pris)</span></p>
                     <p style="margin-top:6.0pt;margin-right:0cm;margin-bottom:1.0pt;margin-left:0cm;font-size:15px;font-family:&quot;Calibri&quot;,sans-serif;text-align:center;"><span style="font-size:21px;font-family:  Calibri;color:black;">&nbsp;<img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACIAAAAeBAMAAAC70dEnAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAwUExURQAAAIAAAACAAICAAAAAgIAAgACAgICAgMDAwP8AAAD/AP//AAAA//8A/wD//////3sfscQAAAAJcEhZcwAADsMAAA7DAcdvqGQAAACkSURBVCjPjZGhGgQhCISnafNVjTY30vZVado4UNeT23IT1O9HUAbIkG0c9/FFOtENXTgSkREGkKArRz1BCTypL5LQbYuWe49gnOTQn6SQU0Gv8hVX8aThlyCJJ2z9OmJXHGH9tScI4ok9tAlbNE87F9HmZ92dpUbxTHpIQ7jWDJ7K2nTwRC1MnlilTWYsjw+rImROsq0yPekEy2FZzzblfNpc5QNgaD6tQYbUGQAAAABJRU5ErkJggg==" style="width: 25.5pt; height: 22.5pt;" alt="image" /></span></p>
                 </td>
                 <td colspan="3" style="width: 141.2pt;border: medium;background: rgb(224, 255, 193);padding: 0cm 5.4pt;height: 12.75pt;vertical-align: top;">
-                    <p style="margin-top:4.0pt;margin-right:0cm;margin-bottom:1.0pt;margin-left:0cm;font-size:15px;font-family:&quot;Calibri&quot;,sans-serif;text-align:center;"><strong><span style="font-size:12px;font-family:Calibri;color:black;">Nombre de marcheurs<br /></span></strong><span style="font-size:12px;font-family:Calibri;color:black;">(comptant chaque passage d&rsquo;un marcheur &agrave; chaque fois)<strong><br />&nbsp;</strong></span><span style="color:black;"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAiCAYAAABbXymAAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAALqSURBVEhLpZa5ixRBGMW35z6YGedQGFgdTBTUQFhQUHAUBU8w8gg0MlEwFTQSFQVBM000MDMwMlL/BwUxWkURUVFkXfBY0WB3xt9ru8ru6erZXvbB41V/XfXq6zp7YqmoVqurstnsNHxbr9dbQXh5mJycLCPDEAeFQmEdujyUSqWLSNh46HneXTQ1cvl8/urU1FQ+ePZRqVT2IhHjXC53Hk0HKu9ATOP5Xq+3QnGBDJ8j5t1LxVKDxncQ0/izYqBG/DLqNZvNNY1GY+2/cHpk4R/oG2N2nxVwmPJcEPvEhG1Al4wONNkOGdfN4WdDOruNpgcNbiDWIJPJPAo/h8kq2Yamxjz0G2I6a8ouMkyv0cXR7/dziNMkgUrCg+PBMFxBXAaJZGmeQccD45t8npn9VKT+MzQVPMb2BOo0Enl/FjUJDDB/gmqZjgcNLyAxQxGTF6h257lwXOQYOIpmoBsYP0YijQxrtVob9UEn75DIe2LTdLCJchy8/IFEGojMwTU0DI9duJ74dcp2mQaMQZ8ygOFKPsnkFOpEp9PRuezXC4YyhgwZx0xDLMIYaPMV+QI1idoPMSjozFjE4AEaAcOxHxmiOqwSUYJO04ALo6cbnb1CNMbJKBaLOxGXoSVjqE3hb2Umbp9i5XJ5q54TQe8ziDXh+SkaGxoMd6Oaj/foB5WhG8EdFzHQusVkD+VR8zmy3KIy7w+gyaCCDu9w4wVoEL4HLcl48aNzdBjYtqcVN3CNP8kcRJPBbbAdsQ3o5Ccauf4F4pcQU087dDxooPVpjcnkiOKj4Ct0HZl6vxVLRLfbrSB2r9PJG8Vd4MtWIzYBfgOaijvBgj+E2Mpku0txF1jDxxBbl46OK+5EkKFfkfJHP5iMX9AaU/+egi5oYduK7Xa7pqALoQn+FqiM3VcTn60z1lTSAT8OmofvbBp7RNJGV1T8piaLHua3KGpnrfSDDvDDvRHROXFSzxjOUJ5FH7Zarbpi/zEx8RfZcjSgD5KAGAAAAABJRU5ErkJggg==" style="width: 16.5pt; height: 25.5pt;" alt="image" /></span></p>
+                    <p style="margin-top:4.0pt;margin-right:0cm;margin-bottom:1.0pt;margin-left:0cm;font-size:15px;font-family:&quot;Calibri&quot;,sans-serif;text-align:center;"><strong><span style="font-size:12px;font-family:Calibri;color:black;">Nombre de marcheurs<br /></span></strong><span style="font-size:12px;font-family:Calibri;color:black;">(comptant chaque passage d'un marcheur à chaque fois)<strong><br />&nbsp;</strong></span><span style="color:black;"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAiCAYAAABbXymAAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAALqSURBVEhLpZa5ixRBGMW35z6YGedQGFgdTBTUQFhQUHAUBU8w8gg0MlEwFTQSFQVBM000MDMwMlL/BwUxWkURUVFkXfBY0WB3xt9ru8ru6erZXvbB41V/XfXq6zp7YqmoVqurstnsNHxbr9dbQXh5mJycLCPDEAeFQmEdujyUSqWLSNh46HneXTQ1cvl8/urU1FQ+ePZRqVT2IhHjXC53Hk0HKu9ATOP5Xq+3QnGBDJ8j5t1LxVKDxncQ0/izYqBG/DLqNZvNNY1GY+2/cHpk4R/oG2N2nxVwmPJcEPvEhG1Al4wONNkOGdfN4WdDOruNpgcNbiDWIJPJPAo/h8kq2Yamxjz0G2I6a8ouMkyv0cXR7/dziNMkgUrCg+PBMFxBXAaJZGmeQccD45t8npn9VKT+MzQVPMb2BOo0Enl/FjUJDDB/gmqZjgcNLyAxQxGTF6h257lwXOQYOIpmoBsYP0YijQxrtVob9UEn75DIe2LTdLCJchy8/IFEGojMwTU0DI9duJ74dcp2mQaMQZ8ygOFKPsnkFOpEp9PRuezXC4YyhgwZx0xDLMIYaPMV+QI1idoPMSjozFjE4AEaAcOxHxmiOqwSUYJO04ALo6cbnb1CNMbJKBaLOxGXoSVjqE3hb2Umbp9i5XJ5q54TQe8ziDXh+SkaGxoMd6Oaj/foB5WhG8EdFzHQusVkD+VR8zmy3KIy7w+gyaCCDu9w4wVoEL4HLcl48aNzdBjYtqcVN3CNP8kcRJPBbbAdsQ3o5Ccauf4F4pcQU087dDxooPVpjcnkiOKj4Ct0HZl6vxVLRLfbrSB2r9PJG8Vd4MtWIzYBfgOaijvBgj+E2Mpku0txF1jDxxBbl46OK+5EkKFfkfJHP5iMX9AaU/+egi5oYduK7Xa7pqALoQn+FqiM3VcTn60z1lTSAT8OmofvbBp7RNJGV1T8piaLHua3KGpnrfSDDvDDvRHROXFSzxjOUJ5FH7Zarbpi/zEx8RfZcjSgD5KAGAAAAABJRU5ErkJggg==" style="width: 16.5pt; height: 25.5pt;" alt="image" /></span></p>
                 </td>
             </tr>
             <tr>
@@ -113,7 +113,7 @@ Daniel Pfund (vice-président)</p>
                     <p style="margin-top:0cm;margin-right:0cm;margin-bottom:0cm;margin-left:0cm;font-size:15px;font-family:&quot;Calibri&quot;,sans-serif;"><strong><span style="font-family:Calibri;">Chemin</span></strong></p>
                 </td>
                 <td style="width:47.05pt;border:none;border-bottom:solid windowtext 1.0pt;background:#F2F2F2;padding:0cm 5.4pt 0cm 5.4pt;height:12.75pt;">
-                    <p style="margin-top:1.0pt;margin-right:0cm;margin-bottom:1.0pt;margin-left:0cm;font-size:15px;font-family:&quot;Calibri&quot;,sans-serif;text-align:center;"><strong><span style="font-size:12px;font-family:Calibri;color:black;">Mont&eacute;e<br /></span>&uarr;</strong></p>
+                    <p style="margin-top:1.0pt;margin-right:0cm;margin-bottom:1.0pt;margin-left:0cm;font-size:15px;font-family:&quot;Calibri&quot;,sans-serif;text-align:center;"><strong><span style="font-size:12px;font-family:Calibri;color:black;">Montée<br /></span>&uarr;</strong></p>
                 </td>
                 <td style="width:47.05pt;border:none;border-bottom:solid windowtext 1.0pt;background:#F2F2F2;padding:0cm 5.4pt 0cm 5.4pt;height:12.75pt;">
                     <p style="margin-top:1.0pt;margin-right:0cm;margin-bottom:1.0pt;margin-left:0cm;font-size:15px;font-family:&quot;Calibri&quot;,sans-serif;text-align:center;"><strong><span style="font-size:12px;font-family:Calibri;color:black;">Descente</span><br />&darr;</strong></p>
@@ -122,7 +122,7 @@ Daniel Pfund (vice-président)</p>
                     <p style="margin-top:1.0pt;margin-right:0cm;margin-bottom:1.0pt;margin-left:0cm;font-size:15px;font-family:&quot;Calibri&quot;,sans-serif;text-align:center;"><strong><span style="font-family:Calibri;color:black;">Total</span></strong></p>
                 </td>
                 <td style="width:47.05pt;border:none;border-bottom:solid windowtext 1.0pt;background:#E0FFC1;padding:0cm 5.4pt 0cm 5.4pt;height:12.75pt;">
-                    <p style="margin-top:1.0pt;margin-right:0cm;margin-bottom:1.0pt;margin-left:0cm;font-size:15px;font-family:&quot;Calibri&quot;,sans-serif;text-align:center;"><strong><span style="font-size:12px;font-family:Calibri;color:black;">Mont&eacute;e<br /></span>&uarr;</strong></p>
+                    <p style="margin-top:1.0pt;margin-right:0cm;margin-bottom:1.0pt;margin-left:0cm;font-size:15px;font-family:&quot;Calibri&quot;,sans-serif;text-align:center;"><strong><span style="font-size:12px;font-family:Calibri;color:black;">Montée<br /></span>&uarr;</strong></p>
                 </td>
                 <td style="width:47.05pt;border:none;border-bottom:solid windowtext 1.0pt;background:#E0FFC1;padding:0cm 5.4pt 0cm 5.4pt;height:12.75pt;">
                     <p style="margin-top:1.0pt;margin-right:0cm;margin-bottom:1.0pt;margin-left:0cm;font-size:15px;font-family:&quot;Calibri&quot;,sans-serif;text-align:center;"><strong><span style="font-size:12px;font-family:Calibri;color:black;">Descente</span><br />&darr;</strong></p>
@@ -163,7 +163,7 @@ Daniel Pfund (vice-président)</p>
                     <p style="margin-top:1.0pt;margin-right:0cm;margin-bottom:1.0pt;margin-left:0cm;font-size:15px;font-family:&quot;Calibri&quot;,sans-serif;text-align:center;"><strong><span style="font-size:16px;">2</span></strong></p>
                 </td>
                 <td style="width:164.85pt;border-top:none;border-left:none;border-bottom:solid #A6A6A6 1.0pt;border-right:solid white 6.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:12.75pt;">
-                    <p style="margin-top:0cm;margin-right:0cm;margin-bottom:0cm;margin-left:0cm;font-size:15px;font-family:&quot;Calibri&quot;,sans-serif;"><span style="font-family:  Calibri;">Cr&ecirc;te</span></p>
+                    <p style="margin-top:0cm;margin-right:0cm;margin-bottom:0cm;margin-left:0cm;font-size:15px;font-family:&quot;Calibri&quot;,sans-serif;"><span style="font-family:  Calibri;">Crête</span></p>
                 </td>
                 <td style="width:47.05pt;border:none;border-bottom:solid #A6A6A6 1.0pt;background:#F2F2F2;padding:0cm 5.4pt 0cm 5.4pt;height:12.75pt;">
                     <p style="margin-top:1.0pt;margin-right:0cm;margin-bottom:1.0pt;margin-left:0cm;font-size:15px;font-family:&quot;Calibri&quot;,sans-serif;text-align:center;">&nbsp;</p>
@@ -186,11 +186,11 @@ Daniel Pfund (vice-président)</p>
             </tr>
             
             <tr>
-                <td style="width:34.75pt;border:none;border-bottom:solid #A6A6A6 1.0pt;background:#F2F2F2;padding:0cm 5.4pt 0cm 5.4pt;height:12.75pt;">
+                <td style="width:34.75pt;border:none;border-bottom:solid #A6A6A6 1.0pt;background:#E2E2E2;padding:0cm 5.4pt 0cm 5.4pt;height:12.75pt;">
                     <p style="margin-top:1.0pt;margin-right:0cm;margin-bottom:1.0pt;margin-left:0cm;font-size:15px;font-family:&quot;Calibri&quot;,sans-serif;text-align:center;"><strong>🚠</strong></p>
                 </td>
-                <td style="width:164.85pt;border-top:none;border-left:none;border-bottom:solid #A6A6A6 1.0pt;border-right:solid white 6.0pt;background:#F2F2F2;padding:0cm 5.4pt 0cm 5.4pt;height:12.75pt;">
-                    <p style="margin-top:0cm;margin-right:0cm;margin-bottom:0cm;margin-left:0cm;font-size:15px;font-family:&quot;Calibri&quot;,sans-serif;"><span style="font-family:  Calibri;">T&eacute;l&eacute;ph&eacute;rique</span></p>
+                <td style="width:164.85pt;border-top:none;border-left:none;border-bottom:solid #A6A6A6 1.0pt;border-right:solid white 6.0pt;background:#E2E2E2;padding:0cm 5.4pt 0cm 5.4pt;height:12.75pt;">
+                    <p style="margin-top:0cm;margin-right:0cm;margin-bottom:0cm;margin-left:0cm;font-size:15px;font-family:&quot;Calibri&quot;,sans-serif;"><span style="font-family:  Calibri;">Téléphérique</span></p>
                 </td>
                 <td style="width:47.05pt;border:none;border-bottom:solid #A6A6A6 1.0pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:12.75pt;">
                     <p style="margin-top:1.0pt;margin-right:0cm;margin-bottom:1.0pt;margin-left:0cm;font-size:15px;font-family:&quot;Calibri&quot;,sans-serif;text-align:center;"><span style="color:black;">5</span></p>
@@ -299,7 +299,7 @@ Daniel Pfund (vice-président)</p>
                     <p style="margin-top:1.0pt;margin-right:0cm;margin-bottom:1.0pt;margin-left:0cm;font-size:15px;font-family:&quot;Calibri&quot;,sans-serif;text-align:center;"><strong><span style="font-size:16px;">6</span></strong></p>
                 </td>
                 <td style="width:164.85pt;border-top:none;border-left:none;border-bottom:solid #A6A6A6 1.0pt;border-right:solid white 6.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:12.75pt;">
-                    <p style="margin-top:0cm;margin-right:0cm;margin-bottom:0cm;margin-left:0cm;font-size:15px;font-family:&quot;Calibri&quot;,sans-serif;"><span style="font-family:  Calibri;">Vovray-Traversi&egrave;re</span></p>
+                    <p style="margin-top:0cm;margin-right:0cm;margin-bottom:0cm;margin-left:0cm;font-size:15px;font-family:&quot;Calibri&quot;,sans-serif;"><span style="font-family:  Calibri;">Vovray-Traversière</span></p>
                 </td>
                 <td style="width:47.05pt;border:none;border-bottom:solid #A6A6A6 1.0pt;background:#F2F2F2;padding:0cm 5.4pt 0cm 5.4pt;height:12.75pt;">
                     <p style="margin-top:1.0pt;margin-right:0cm;margin-bottom:1.0pt;margin-left:0cm;font-size:15px;font-family:&quot;Calibri&quot;,sans-serif;text-align:center;">4</p>
@@ -377,7 +377,7 @@ Daniel Pfund (vice-président)</p>
                     <p style="margin-top:1.0pt;margin-right:0cm;margin-bottom:1.0pt;margin-left:0cm;font-size:15px;font-family:&quot;Calibri&quot;,sans-serif;text-align:center;"><strong><span style="font-size:16px;">9</span></strong></p>
                 </td>
                 <td style="width:164.85pt;border-top:none;border-left:none;border-bottom:solid #A6A6A6 1.0pt;border-right:solid white 6.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:12.75pt;">
-                    <p style="margin-top:0cm;margin-right:0cm;margin-bottom:0cm;margin-left:0cm;font-size:15px;font-family:&quot;Calibri&quot;,sans-serif;"><span style="font-family:  Calibri;">Tour du Petit Sal&egrave;ve</span></p>
+                    <p style="margin-top:0cm;margin-right:0cm;margin-bottom:0cm;margin-left:0cm;font-size:15px;font-family:&quot;Calibri&quot;,sans-serif;"><span style="font-family:  Calibri;">Tour du Petit Salève</span></p>
                 </td>
                 <td style="width:47.05pt;border:none;border-bottom:solid #A6A6A6 1.0pt;background:#F2F2F2;padding:0cm 5.4pt 0cm 5.4pt;height:12.75pt;">
                     <p style="margin-top:1.0pt;margin-right:0cm;margin-bottom:1.0pt;margin-left:0cm;font-size:15px;font-family:&quot;Calibri&quot;,sans-serif;text-align:center;"><span style="color:black;">&nbsp;</span></p>
@@ -461,7 +461,7 @@ Daniel Pfund (vice-président)</p>
                     <p style="margin-top:1.0pt;margin-right:0cm;margin-bottom:1.0pt;margin-left:0cm;font-size:15px;font-family:&quot;Calibri&quot;,sans-serif;text-align:center;"><span style="font-family:Calibri;">3</span></p>
                 </td>
                 <td style="width:47.05pt;border:none;border-bottom:solid #A6A6A6 1.0pt;background:#F2F2F2;padding:0cm 5.4pt 0cm 5.4pt;height:12.75pt;">
-                    <p style="margin-top:1.0pt;margin-right:0cm;margin-bottom:1.0pt;margin-left:0cm;font-size:15px;font-family:&quot;Calibri&quot;,sans-serif;text-align:center;"><span style="font-family:Calibri;color:#BE5201;">&nbsp;</span></p>
+                    <p style="margin-top:1.0pt;margin-right:0cm;margin-bottom:1.0pt;margin-left:0cm;font-size:15px;font-family:&quot;Calibri&quot;,sans-serif;text-align:center;"><span style="font-family:Calibri;">&nbsp;</span></p>
                 </td>
                 <td style="width:47.05pt;border-top:none;border-left:none;border-bottom:solid #A6A6A6 1.0pt;border-right:solid white 6.0pt;background:#F2F2F2;padding:0cm 5.4pt 0cm 5.4pt;height:12.75pt;">
                     <p style="margin-top:1.0pt;margin-right:0cm;margin-bottom:1.0pt;margin-left:0cm;font-size:15px;font-family:&quot;Calibri&quot;,sans-serif;text-align:center;"><strong><span style="font-size:16px;color:black;">3</span></strong></p>
@@ -478,13 +478,13 @@ Daniel Pfund (vice-président)</p>
             </tr>
             <tr>
                 <td style="width: 34.75pt;border-width: medium medium 1pt;border-style: none none solid;border-color: currentcolor currentcolor rgb(166, 166, 166);border-image: none;padding: 0cm 5.4pt;height: 12.75pt;vertical-align: top;">
-                    <p style="margin-top:1.0pt;margin-right:0cm;margin-bottom:1.0pt;margin-left:0cm;font-size:15px;font-family:&quot;Calibri&quot;,sans-serif;text-align:center;"><strong><span style="font-size:16px;font-family:Calibri;">13&nbsp;</span></strong></p>
+                    <p style="margin-top:1.0pt;margin-right:0cm;margin-bottom:1.0pt;margin-left:0cm;font-size:15px;font-family:&quot;Calibri&quot;,sans-serif;text-align:center;"><strong><span style="font-size:16px;font-family:Calibri;">13</span></strong></p>
                 </td>
                 <td style="width:164.85pt;border-top:none;border-left:none;border-bottom:solid #A6A6A6 1.0pt;border-right:solid white 6.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:12.75pt;">
-                    <p style="margin-top:0cm;margin-right:0cm;margin-bottom:0cm;margin-left:0cm;font-size:15px;font-family:&quot;Calibri&quot;,sans-serif;"><span style="font-family:  Calibri;">Allum&eacute;es</span></p>
+                    <p style="margin-top:0cm;margin-right:0cm;margin-bottom:0cm;margin-left:0cm;font-size:15px;font-family:&quot;Calibri&quot;,sans-serif;"><span style="font-family:  Calibri;">Allumées</span></p>
                 </td>
                 <td style="width:47.05pt;border:none;border-bottom:solid #A6A6A6 1.0pt;background:#F2F2F2;padding:0cm 5.4pt 0cm 5.4pt;height:12.75pt;">
-                    <p style="margin-top:1.0pt;margin-right:0cm;margin-bottom:1.0pt;margin-left:0cm;font-size:15px;font-family:&quot;Calibri&quot;,sans-serif;text-align:center;"><span style="font-family:Calibri;color:#BE5201;">&nbsp;</span></p>
+                    <p style="margin-top:1.0pt;margin-right:0cm;margin-bottom:1.0pt;margin-left:0cm;font-size:15px;font-family:&quot;Calibri&quot;,sans-serif;text-align:center;"><span style="font-family:Calibri;">&nbsp;</span></p>
                 </td>
                 <td style="width:47.05pt;border:none;border-bottom:solid #A6A6A6 1.0pt;background:#F2F2F2;padding:0cm 5.4pt 0cm 5.4pt;height:12.75pt;">
                     <p style="margin-top:1.0pt;margin-right:0cm;margin-bottom:1.0pt;margin-left:0cm;font-size:15px;font-family:&quot;Calibri&quot;,sans-serif;text-align:center;"><span style="font-family:Calibri;">5</span></p>
@@ -496,7 +496,7 @@ Daniel Pfund (vice-président)</p>
                     <p style="margin-top:1.0pt;margin-right:0cm;margin-bottom:1.0pt;margin-left:0cm;font-size:15px;font-family:&quot;Calibri&quot;,sans-serif;text-align:center;">&nbsp;</p>
                 </td>
                 <td style="width:47.05pt;border:none;border-bottom:solid #A6A6A6 1.0pt;background:#E0FFC1;padding:0cm 5.4pt 0cm 5.4pt;height:12.75pt;">
-                    <p style="margin-top:1.0pt;margin-right:0cm;margin-bottom:1.0pt;margin-left:0cm;font-size:15px;font-family:&quot;Calibri&quot;,sans-serif;text-align:center;">&nbsp;</p>
+                    <p style="margin-top:1.0pt;margin-right:0cm;margin-bottom:1.0pt;margin-left:0cm;font-size:15px;font-family:&quot;Calibri&quot;,sans-serif;text-align:center;">20</p>
                 </td>
                 <td style="width:47.1pt;border:none;border-bottom:solid #A6A6A6 1.0pt;background:#E0FFC1;padding:0cm 5.4pt 0cm 5.4pt;height:12.75pt;">
                     <p style="margin-top:1.0pt;margin-right:0cm;margin-bottom:1.0pt;margin-left:0cm;font-size:15px;font-family:&quot;Calibri&quot;,sans-serif;text-align:center;"><strong><span style="color:black;">20</span></strong></p>
@@ -559,10 +559,10 @@ Daniel Pfund (vice-président)</p>
                     <p style="margin-top:1.0pt;margin-right:0cm;margin-bottom:1.0pt;margin-left:0cm;font-size:15px;font-family:&quot;Calibri&quot;,sans-serif;text-align:center;"><strong><span style="font-size:16px;font-family:Calibri;">16</span></strong></p>
                 </td>
                 <td style="width:164.85pt;border-top:none;border-left:none;border-bottom:solid #A6A6A6 1.0pt;border-right:solid white 6.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:12.75pt;">
-                    <p style="margin-top:0cm;margin-right:0cm;margin-bottom:0cm;margin-left:0cm;font-size:15px;font-family:&quot;Calibri&quot;,sans-serif;"><span style="font-family:  Calibri;">Ponts de la Caille-Plan</span></p>
+                    <p style="margin-top:0cm;margin-right:0cm;margin-bottom:0cm;margin-left:0cm;font-size:15px;font-family:&quot;Calibri&quot;,sans-serif;"><span style="font-family:  Calibri;">Montée depuis Cruseilles*</span></p>
                 </td>
                 <td style="width:47.05pt;border:none;border-bottom:solid #A6A6A6 1.0pt;background:#F2F2F2;padding:0cm 5.4pt 0cm 5.4pt;height:12.75pt;">
-                    <p style="margin-top:1.0pt;margin-right:0cm;margin-bottom:1.0pt;margin-left:0cm;font-size:15px;font-family:&quot;Calibri&quot;,sans-serif;text-align:center;"><span style="font-family:Calibri;">&nbsp;</span></p>
+                    <p style="margin-top:1.0pt;margin-right:0cm;margin-bottom:1.0pt;margin-left:0cm;font-size:15px;font-family:&quot;Calibri&quot;,sans-serif;text-align:center;"><span style="font-family:Calibri;">2</span></p>
                 </td>
                 <td style="width:47.05pt;border:none;border-bottom:solid #A6A6A6 1.0pt;background:#F2F2F2;padding:0cm 5.4pt 0cm 5.4pt;height:12.75pt;">
                     <p style="margin-top:1.0pt;margin-right:0cm;margin-bottom:1.0pt;margin-left:0cm;font-size:15px;font-family:&quot;Calibri&quot;,sans-serif;text-align:center;"><span style="font-family:Calibri;">&nbsp;</span></p>
@@ -571,7 +571,7 @@ Daniel Pfund (vice-président)</p>
                     <p style="margin-top:1.0pt;margin-right:0cm;margin-bottom:1.0pt;margin-left:0cm;font-size:15px;font-family:&quot;Calibri&quot;,sans-serif;text-align:center;"><strong><span style="font-size:16px;font-family:Calibri;color:black;">2</span></strong></p>
                 </td>
                 <td style="width:47.05pt;border:none;border-bottom:solid #A6A6A6 1.0pt;background:#E0FFC1;padding:0cm 5.4pt 0cm 5.4pt;height:12.75pt;">
-                    <p style="margin-top:1.0pt;margin-right:0cm;margin-bottom:1.0pt;margin-left:0cm;font-size:15px;font-family:&quot;Calibri&quot;,sans-serif;text-align:center;"><span style="font-family:Calibri;">&nbsp;</span></p>
+                    <p style="margin-top:1.0pt;margin-right:0cm;margin-bottom:1.0pt;margin-left:0cm;font-size:15px;font-family:&quot;Calibri&quot;,sans-serif;text-align:center;"><span style="font-family:Calibri;">13</span></p>
                 </td>
                 <td style="width:47.05pt;border:none;border-bottom:solid #A6A6A6 1.0pt;background:#E0FFC1;padding:0cm 5.4pt 0cm 5.4pt;height:12.75pt;">
                     <p style="margin-top:1.0pt;margin-right:0cm;margin-bottom:1.0pt;margin-left:0cm;font-size:15px;font-family:&quot;Calibri&quot;,sans-serif;text-align:center;"><span style="font-family:Calibri;">&nbsp;</span></p>
@@ -588,19 +588,19 @@ Daniel Pfund (vice-président)</p>
                     <p style="margin-top:0cm;margin-right:0cm;margin-bottom:0cm;margin-left:0cm;font-size:15px;font-family:&quot;Calibri&quot;,sans-serif;"><span style="font-family:  Calibri;">Sentier de la Joie</span></p>
                 </td>
                 <td style="width:47.05pt;border:none;border-bottom:solid #A6A6A6 1.0pt;background:#F2F2F2;padding:0cm 5.4pt 0cm 5.4pt;height:12.75pt;">
-                    <p style="margin-top:1.0pt;margin-right:0cm;margin-bottom:1.0pt;margin-left:0cm;font-size:15px;font-family:&quot;Calibri&quot;,sans-serif;text-align:center;"><span style="font-family:Calibri;color:#339933;">&nbsp;</span></p>
+                    <p style="margin-top:1.0pt;margin-right:0cm;margin-bottom:1.0pt;margin-left:0cm;font-size:15px;font-family:&quot;Calibri&quot;,sans-serif;text-align:center;"><span style="font-family:Calibri;">&nbsp;</span></p>
                 </td>
                 <td style="width:47.05pt;border:none;border-bottom:solid #A6A6A6 1.0pt;background:#F2F2F2;padding:0cm 5.4pt 0cm 5.4pt;height:12.75pt;">
-                    <p style="margin-top:1.0pt;margin-right:0cm;margin-bottom:1.0pt;margin-left:0cm;font-size:15px;font-family:&quot;Calibri&quot;,sans-serif;text-align:center;"><span style="font-family:Calibri;color:#339933;">&nbsp;</span></p>
+                    <p style="margin-top:1.0pt;margin-right:0cm;margin-bottom:1.0pt;margin-left:0cm;font-size:15px;font-family:&quot;Calibri&quot;,sans-serif;text-align:center;"><span style="font-family:Calibri;">&nbsp;</span></p>
                 </td>
                 <td style="width: 47.05pt;border-width: medium 6pt 1pt medium;border-style: none solid none none;border-color: currentcolor white windowtext currentcolor;border-bottom:solid #A6A6A6 1.0pt;background: rgb(242, 242, 242);padding: 0cm 5.4pt;height: 12.75pt;vertical-align: top;">
                     <p style="margin-top:1.0pt;margin-right:0cm;margin-bottom:1.0pt;margin-left:0cm;font-size:15px;font-family:&quot;Calibri&quot;,sans-serif;text-align:center;"><strong><span style="font-size:16px;color:black;">2</span></strong></p>
                 </td>
                 <td style="width: 47.05pt;border-width: medium medium 1pt;border-style: none none none;border-bottom:solid #A6A6A6 1.0pt;background: rgb(224, 255, 193);padding: 0cm 5.4pt;height: 12.75pt;vertical-align: top;">
-                    <p style="margin-top:1.0pt;margin-right:0cm;margin-bottom:1.0pt;margin-left:0cm;font-size:15px;font-family:&quot;Calibri&quot;,sans-serif;text-align:center;"><span style="font-family:Calibri;color:#339933;">&nbsp;</span></p>
+                    <p style="margin-top:1.0pt;margin-right:0cm;margin-bottom:1.0pt;margin-left:0cm;font-size:15px;font-family:&quot;Calibri&quot;,sans-serif;text-align:center;"><span style="font-family:Calibri;">&nbsp;</span></p>
                 </td>
                 <td style="width: 47.05pt;border-width: medium medium 1pt;border-style: none none none;border-bottom:solid #A6A6A6 1.0pt;background: rgb(224, 255, 193);padding: 0cm 5.4pt;height: 12.75pt;vertical-align: top;">
-                    <p style="margin-top:1.0pt;margin-right:0cm;margin-bottom:1.0pt;margin-left:0cm;font-size:15px;font-family:&quot;Calibri&quot;,sans-serif;text-align:center;"><span style="font-family:Calibri;color:#339933;">&nbsp;</span></p>
+                    <p style="margin-top:1.0pt;margin-right:0cm;margin-bottom:1.0pt;margin-left:0cm;font-size:15px;font-family:&quot;Calibri&quot;,sans-serif;text-align:center;"><span style="font-family:Calibri;">&nbsp;</span></p>
                 </td>
                 <td style="width: 47.1pt;border-width: medium medium 1pt;border-style: none none none;border-bottom:solid #A6A6A6 1.0pt;background: rgb(224, 255, 193);padding: 0cm 5.4pt;height: 12.75pt;vertical-align: top;">
                     <p style="margin-top:1.0pt;margin-right:0cm;margin-bottom:1.0pt;margin-left:0cm;font-size:15px;font-family:&quot;Calibri&quot;,sans-serif;text-align:center;"><strong><span style="color:black;">9</span></strong></p>
@@ -649,10 +649,10 @@ Daniel Pfund (vice-président)</p>
                     <p style="margin-top:1.0pt;margin-right:0cm;margin-bottom:1.0pt;margin-left:0cm;font-size:15px;font-family:&quot;Calibri&quot;,sans-serif;text-align:center;"><strong><span style="font-size:16px;color:black;">3</span></strong></p>
                 </td>
                 <td style="width: 47.05pt;border-width: medium medium 1pt;border-style: none none none;border-bottom:solid #A6A6A6 1.0pt;background: rgb(224, 255, 193);padding: 0cm 5.4pt;height: 12.75pt;vertical-align: top;">
-                    <p style="margin-top:1.0pt;margin-right:0cm;margin-bottom:1.0pt;margin-left:0cm;font-size:15px;font-family:&quot;Calibri&quot;,sans-serif;text-align:center;"><span style="font-family:Calibri;color:#339933;">&nbsp;</span></p>
+                    <p style="margin-top:1.0pt;margin-right:0cm;margin-bottom:1.0pt;margin-left:0cm;font-size:15px;font-family:&quot;Calibri&quot;,sans-serif;text-align:center;"><span style="font-family:Calibri;">&nbsp;</span></p>
                 </td>
                 <td style="width: 47.05pt;border-width: medium medium 1pt;border-style: none none none;border-bottom:solid #A6A6A6 1.0pt;background: rgb(224, 255, 193);padding: 0cm 5.4pt;height: 12.75pt;vertical-align: top;">
-                    <p style="margin-top:1.0pt;margin-right:0cm;margin-bottom:1.0pt;margin-left:0cm;font-size:15px;font-family:&quot;Calibri&quot;,sans-serif;text-align:center;"><span style="font-family:Calibri;color:#339933;">&nbsp;</span></p>
+                    <p style="margin-top:1.0pt;margin-right:0cm;margin-bottom:1.0pt;margin-left:0cm;font-size:15px;font-family:&quot;Calibri&quot;,sans-serif;text-align:center;"><span style="font-family:Calibri;">&nbsp;</span></p>
                 </td>
                 <td style="width: 47.1pt;border-width: medium medium 1pt;border-style: none none none;border-bottom:solid #A6A6A6 1.0pt;background: rgb(224, 255, 193);padding: 0cm 5.4pt;height: 12.75pt;vertical-align: top;">
                     <p style="margin-top:1.0pt;margin-right:0cm;margin-bottom:1.0pt;margin-left:0cm;font-size:15px;font-family:&quot;Calibri&quot;,sans-serif;text-align:center;"><strong><span style="color:black;">6</span></strong></p>
@@ -662,13 +662,13 @@ Daniel Pfund (vice-président)</p>
                     <p style="margin-top:1.0pt;margin-right:0cm;margin-bottom:1.0pt;margin-left:0cm;font-size:15px;font-family:&quot;Calibri&quot;,sans-serif;text-align:center;"><strong><span style="font-size:16px;font-family:Calibri;">20</span></strong></p>
                 </td>
                 <td style="width:164.85pt;border-top:none;border-left:none;border-bottom:none;border-right:solid white 6.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:12.75pt;">
-                    <p style="margin-top:0cm;margin-right:0cm;margin-bottom:0cm;margin-left:0cm;font-size:15px;font-family:&quot;Calibri&quot;,sans-serif;"><span style="font-family:  Calibri;">Ch&acirc;ble-Chalet des Convers</span></p>
+                    <p style="margin-top:0cm;margin-right:0cm;margin-bottom:0cm;margin-left:0cm;font-size:15px;font-family:&quot;Calibri&quot;,sans-serif;"><span style="font-family:  Calibri;">Châble-Chalet des Convers</span></p>
                 </td>
                 <td style="width:47.05pt;border:none;border-bottom:none;background:#F2F2F2;padding:0cm 5.4pt 0cm 5.4pt;height:12.75pt;">
                     <p style="margin-top:1.0pt;margin-right:0cm;margin-bottom:1.0pt;margin-left:0cm;font-size:15px;font-family:&quot;Calibri&quot;,sans-serif;text-align:center;"><span style="font-family:Calibri;">1</span></p>
                 </td>
                 <td style="width:47.05pt;border:none;border-bottom:none;background:#F2F2F2;padding:0cm 5.4pt 0cm 5.4pt;height:12.75pt;">
-                    <p style="margin-top:1.0pt;margin-right:0cm;margin-bottom:1.0pt;margin-left:0cm;font-size:15px;font-family:&quot;Calibri&quot;,sans-serif;text-align:center;"><span style="font-family:Calibri;color:#339933;">&nbsp;</span></p>
+                    <p style="margin-top:1.0pt;margin-right:0cm;margin-bottom:1.0pt;margin-left:0cm;font-size:15px;font-family:&quot;Calibri&quot;,sans-serif;text-align:center;"><span style="font-family:Calibri;">&nbsp;</span></p>
                 </td>
                 <td style="width: 47.05pt;border-width: medium 6pt 1pt medium;border-style: none solid none none;border-color: currentcolor white windowtext currentcolor;background: rgb(242, 242, 242);padding: 0cm 5.4pt;height: 12.75pt;vertical-align: top;">
                     <p style="margin-top:1.0pt;margin-right:0cm;margin-bottom:1.0pt;margin-left:0cm;font-size:15px;font-family:&quot;Calibri&quot;,sans-serif;text-align:center;"><strong><span style="font-size:16px;color:black;">1</span></strong></p>
@@ -677,7 +677,7 @@ Daniel Pfund (vice-président)</p>
                     <p style="margin-top:1.0pt;margin-right:0cm;margin-bottom:1.0pt;margin-left:0cm;font-size:15px;font-family:&quot;Calibri&quot;,sans-serif;text-align:center;"><span style="font-family:Calibri;">6</span></p>
                 </td>
                 <td style="width: 47.05pt;border-width: medium medium 1pt;border-style: none none none;background: rgb(224, 255, 193);padding: 0cm 5.4pt;height: 12.75pt;vertical-align: top;">
-                    <p style="margin-top:1.0pt;margin-right:0cm;margin-bottom:1.0pt;margin-left:0cm;font-size:15px;font-family:&quot;Calibri&quot;,sans-serif;text-align:center;"><span style="font-family:Calibri;color:#339933;">&nbsp;</span></p>
+                    <p style="margin-top:1.0pt;margin-right:0cm;margin-bottom:1.0pt;margin-left:0cm;font-size:15px;font-family:&quot;Calibri&quot;,sans-serif;text-align:center;"><span style="font-family:Calibri;">&nbsp;</span></p>
                 </td>
                 <td style="width: 47.1pt;border-width: medium medium 1pt;border-style: none none none;background: rgb(224, 255, 193);padding: 0cm 5.4pt;height: 12.75pt;vertical-align: top;">
                     <p style="margin-top:1.0pt;margin-right:0cm;margin-bottom:1.0pt;margin-left:0cm;font-size:15px;font-family:&quot;Calibri&quot;,sans-serif;text-align:center;"><strong><span style="color:black;">6</span></strong></p>
@@ -685,7 +685,8 @@ Daniel Pfund (vice-président)</p>
             </tr>
         </tbody>
     </table>
-   </div>
+   <p style="text-align: left;">* Une fois de Cruseilles au Plan du Salève, et une fois depuis les Ponts de la Caille au chalet des Convers.</p>
+</div>
 
 <h2 id="annexe-2">Annexe 2:</h2>
 <h3 id="participants">Participants</h3>
