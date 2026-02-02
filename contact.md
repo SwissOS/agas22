@@ -22,7 +22,7 @@ Vous pouvez nous contacter par les moyens de communication suivants:
       <i class="fas fa-envelope fa-stack-1x fa-inverse"></i>
     </span>
     <span class="sr-only">Email AGAS</span>
-    Email: agas@saleve.xyz
+    Email: agas@saleve.xyz (vérifiez votre boîte spam si vous attendez une réponse de notre part)
    </a>
 </p>
 <p><a href="https://www.facebook.com/{{ site.social-network-links.facebook }}" title="Facebook">
@@ -40,7 +40,7 @@ Vous pouvez nous contacter par les moyens de communication suivants:
       <i class="fab fa-telegram-plane fa-stack-1x fa-inverse"></i>
     </span>
     <span class="sr-only">Telegram</span>
-    Telegram: Daniel (un guide bénévole et créateur de ce site)
+    Telegram: Daniel (vice-président et créateur de ce site)
    </a>
 </p>
 <p><a href="https://wa.me/{{ site.social-network-links.whatsapp }}" title="Whatsapp">
