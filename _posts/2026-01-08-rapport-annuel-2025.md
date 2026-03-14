@@ -46,6 +46,7 @@ Daniel Pfund (vice-président)</p>
 
 <p><b>Finances</b> : Les finances de l’AGAS sont modestes mais saines. Grâce aux cotisations de nos membres, ainsi qu’à la subvention du Service des sports de la Ville de Genève, nous avons pu mener à bien les activités décrites dans ce rapport. Le rapport financier a été préparé séparément.</p>
 
+<p><b>Partenariats</b> : Un lien vers l'AGAS se trouve sur les pages suivantes:</p>
 <ul>
   <li>
     <p>Syndicat mixte du Salève (SMS) -- « <a href="https://www.syndicat-mixte-du-saleve.fr/animer/associations-partenaires/">Associations,_partenaires</a> » (en fin de page) : En 2025, Monika a participé à deux réunions du Comité de Pilotage de révision du Schéma Directeur de la Randonnée. Le SMS gère un réseau de 325 kilomètres de chemins de randonnée dans la région.  Vous pouvez leur signaler toute observation, de préférence en utilisant l’application <a href="https://www.sportsdenature.gouv.fr/nouvelle-application-mobile-suricate">Suricate</a> pour téléphones mobiles.</p>
