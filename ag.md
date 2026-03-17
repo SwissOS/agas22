@@ -3,7 +3,7 @@ layout: page
 title: Assemblées générales
 share-title: Assemblée générale de l'AGAS
 ---
-## L'Assemblée générale permet :
+## L'assemblée générale permet :
 
 * de présenter le bilan humain et financier de l'année écoulée ;
 * de rendre compte de nos réalisations ;
@@ -11,7 +11,7 @@ share-title: Assemblée générale de l'AGAS
 * de parler de nos projets, de vos idées, de vos souhaits ;
 * d'injecter du sang neuf dans les structures lors des élections ;
 * de remercier celles et ceux qui s'engagent pour animer nos randonnées ;
-* d'échanger des propositions et des intentions pour développer notre association;
+* d'échanger des propositions et des intentions pour développer notre association ;
 * de revenir sur les activités de l'année écoulée, finances, randonnées, balisage et autres.
 
 C'est également le moment propice pour les membres de prendre la parole et de faire part de leurs interrogations, leurs désirs, leurs frustrations, bref de s'exprimer afin que le Comité puisse avancer d'une manière satisfaisante pour les membres.
