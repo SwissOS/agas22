@@ -57,10 +57,10 @@ Article 13: L'année comptable correspond à l'année civile.
 
 Article 14: Les obligations de l'association ne sont garanties que par ses biens. Toute responsabilité des membres est exclue.
 
-Article 15: L'AGAS ne saurait encourir de responsabilité du fait de blessures accidentelles ou autres dont pourraient être victimes les membres ou leurs invités.
+Article 15: L'AGAS ne saurait encourir de responsabilité du fait de blessures accidentelles ou autres dont pourraient être victimes les membres ou leurs invités. Les encadrants sont instruits pour respecter les [prescriptions internes de l'AGAS](/assets/pdf/prescriptions-internes.pdf) visant à garantir la sécurité des participants.
 
 Article 16: Peuvent devenir membres toutes les personnes qui désirent soutenir l'association dans la poursuite de son but. La qualité de membre s’acquiert par le paiement de la cotisation annuelle, pour l’année concernée. Le comité admet les nouveaux membres et gère les cotisations. Il peut prononcer l’exclusion de tout membre dont la conduite porte ou a porté préjudice à l’AGAS. Un membre qui choisit de ne pas renouveler son adhésion perd sa qualité de membre, sans besoin de démission.
 
 **IX - Disposition finale**
 
-Article 17: Les présents statuts ont été approuvés par l'assemblée générale du 16 mars 2025, en modification de ceux du 4.10.1998. Ils entrent immédiatement en vigueur.
+Article 17: Les présents statuts ont été approuvés par l'assemblée générale du 15 mars 2026, en modification de ceux du 16.03.2025. Ils entrent immédiatement en vigueur.
