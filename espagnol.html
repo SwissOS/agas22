@@ -6,7 +6,7 @@ share-description: Caminatas gratuitas en la Salève todos los domingos. No es n
 language: es
 ---
 <div class="welcome">
-   <div style="align:right;padding: 0 1.5rem 0">
+   <div style="padding: 0 1.5rem 0">
     Hello<br>
     Ciao<br>
     Bonjour<br>
@@ -43,6 +43,14 @@ Contar entre 5 y 8 horas de marcha (de las cuales 3 horas de subida - 800 m de d
 <br><strong>Lleve también suficiente agua</strong>, ya que no hay manantiales en los senderos de la Salève.</p>
 </div>
 
+<h2>Excursiones adicionales</h2>
+        <p>En ocasiones, organizamos un segundo punto de encuentro para explorar la zona sur del Mont Salève, lejos del teleférico. 
+    <strong>Estas excursiones son solo para excursionistas experimentados que ya hayan subido al Salève con nosotros</strong>. 
+    Los detalles se anuncian aquí con 1-2 días de antelación, dependiendo de la previsión meteorológica.
+      </p>
+
+  <div id="cards"></div>
+
 <div class="box-error">
 La asociación declina toda responsabilidad en caso de accidente.
 </div>
@@ -56,5 +64,39 @@ d.setDate(d.getDate() + 7 );
 }
 var options = {'weekday': 'long', 'month': 'long', 'day': '2-digit', 'year': 'numeric'};
 var date = d.toLocaleString('es-ES', options);
-document.getElementById('nextMeeting').innerHTML = "Próximo senderismo: "+date.toString();
+document.getElementById('nextMeeting').innerHTML = "Próxima excursión: "+date.toString();
+
+    const scriptUrl = "https://script.google.com/macros/s/AKfycbxrDnesoYawPLQHClhvAdgQ99RgiN-gSm2uwStbYuDarsovduTptgTzfamoxxQPuR5X/exec"; 
+
+    async function loadHikes() {
+      const container = document.getElementById("cards");
+      container.innerHTML = "<p>Cargando ...</p>";
+
+      try {
+        const response = await fetch(scriptUrl);
+        const hikes = await response.json();
+
+        container.innerHTML = "";
+
+        hikes.forEach(hike => {
+          const card = document.createElement("div");
+          card.className = "card";
+
+          card.innerHTML = `
+            <p><strong> ${hike.Rdv || ""}</strong><br>
+            ${hike.Stops || ""}<br>
+            ${hike.Details || ""}</p>
+          `;
+
+          container.appendChild(card);
+        });
+
+      } catch (err) {
+        console.error(err);
+        container.innerHTML = "<p>Oops.</p>";
+      }
+    }
+
+    loadHikes();
+
 </script>

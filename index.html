@@ -45,6 +45,15 @@ Selon le circuit choisi, comptez 5 à 8 heures de marche, dont 3 heures de mont�
 <br><strong>Emportez également suffisament d'eau</strong> car il n'y a pas de sources le long des sentiers du Salève.</p>
 </div>
 
+
+<h2>Randos alternatives</h2>
+<p>Parfois nous organisons un rendez-vous supplémentaire pour explorer le sud du Salève, loin du téléphérique. 
+  Les détails sont confirmés ici 1-2 jours avant, selon la météo. Ces sorties sont 
+  <strong>réservées aux randonneurs initiés qui sont déjà montés au Salève avec nous</strong>.
+</p>
+
+<div id="cards"></div>
+
 <script>
 var d = new Date();
 var today = new Date();
@@ -55,4 +64,38 @@ d.setDate(d.getDate() + 7 );
 var options = {'weekday': 'long', 'month': 'long', 'day': '2-digit', 'year': 'numeric'};
 var date = d.toLocaleString('fr-CH', options);
 document.getElementById('nextMeeting').innerHTML = "Prochaine rando: "+date.toString()+" à 10h00";
+
+    const scriptUrl = "https://script.google.com/macros/s/AKfycbxrDnesoYawPLQHClhvAdgQ99RgiN-gSm2uwStbYuDarsovduTptgTzfamoxxQPuR5X/exec"; 
+
+    async function loadHikes() {
+      const container = document.getElementById("cards");
+      container.innerHTML = "<p>Un instant...</p>";
+
+      try {
+        const response = await fetch(scriptUrl);
+        const hikes = await response.json();
+
+        container.innerHTML = "";
+
+        hikes.forEach(hike => {
+          const card = document.createElement("div");
+          card.className = "card";
+
+          card.innerHTML = `
+            <p><strong> ${hike.Rdv || ""}</strong><br>
+            ${hike.Stops || ""}<br>
+            ${hike.Details || ""}</p>
+          `;
+
+          container.appendChild(card);
+        });
+
+      } catch (err) {
+        console.error(err);
+        container.innerHTML = "<p>Oups.</p>";
+      }
+    }
+
+    loadHikes();
+
 </script>
