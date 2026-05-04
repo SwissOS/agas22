@@ -90,7 +90,7 @@ Daniel Pfund (vice-président)</p>
   <li>Les chemins en pointillé sur le plan ci-dessous sont sur l’autre versant du Salève.</li>
 </ul>
 
-<p><img src="/assets/img/2025-Chemins.png" alt="Chemins de randonnées au Salève" class="center" /></p>
+<p><img src="/assets/img/2025-Chemins-v2.png" alt="Chemins de randonnées au Salève" class="center" /></p>
 
 <div>
     <table style="border: none;border-collapse: collapse;width: 644px;">
