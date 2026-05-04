@@ -7,7 +7,7 @@ extra-footer: footer-disclaimer.html
 language: en
 ---
 <div class="welcome">
-   <div style="align:right;padding: 0 1.5rem 0">
+   <div style="padding: 0 1.5rem 0">
     Hello<br>
     Ciao<br>
     Bonjour<br>
@@ -42,6 +42,14 @@ language: en
 <br><strong>Be sure to bring enough water</strong> as there are no sources along the hiking paths on the Salève.</p>
 </div>
 
+<h2>Additional hikes </h2>
+        <p>Sometimes we organise a second meet-up point to explore the south of Mont Salève, far from the cable car.
+         <strong>These hikes are for experienced hikers only, who have walked up the Salève with us before</strong>.
+         Details are announced here 1-2 days in advance, depending on weather conditions. 
+      </p>
+
+      <div id="cards"></div>
+
 <div class="box-error">
 The association declines all responsibility in the event of an accident.
 </div>
@@ -56,4 +64,38 @@ d.setDate(d.getDate() + 7 );
 var options = {'weekday': 'long', 'month': 'long', 'day': '2-digit', 'year': 'numeric'};
 var date = d.toLocaleString('en-US', options);
 document.getElementById('nextMeeting').innerHTML = "Next hike: "+date.toString();
+
+    const scriptUrl = "https://script.google.com/macros/s/AKfycbxrDnesoYawPLQHClhvAdgQ99RgiN-gSm2uwStbYuDarsovduTptgTzfamoxxQPuR5X/exec"; 
+
+    async function loadHikes() {
+      const container = document.getElementById("cards");
+      container.innerHTML = "<p>Loading ...</p>";
+
+      try {
+        const response = await fetch(scriptUrl);
+        const hikes = await response.json();
+
+        container.innerHTML = "";
+
+        hikes.forEach(hike => {
+          const card = document.createElement("div");
+          card.className = "card";
+
+          card.innerHTML = `
+            <p><strong> ${hike.Rdv || ""}</strong><br>
+            ${hike.Stops || ""}<br>
+            ${hike.Details || ""}</p>
+          `;
+
+          container.appendChild(card);
+        });
+
+      } catch (err) {
+        console.error(err);
+        container.innerHTML = "<p>Oops.</p>";
+      }
+    }
+
+    loadHikes();
+
 </script>

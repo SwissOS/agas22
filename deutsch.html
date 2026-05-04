@@ -6,7 +6,7 @@ share-description: Kostenlose Wanderungen auf den Salève jeden Sonntag. Keine A
 language: de
 ---
 <div class="welcome">
-   <div style="align:right;padding: 0 1.5rem 0">
+   <div style="padding: 0 1.5rem 0">
     Hello<br>
     Ciao<br>
     Bonjour<br>
@@ -45,6 +45,14 @@ Der Salève ist ein echter Berg, der nach dem Mont-Blanc in Hochsavoyen am zweit
 <br><strong>Nehmen Sie auch ausreichend Wasser mit</strong>, da es entlang der Wanderwege auf dem Salève keine Quellen gibt.</p>
 </div>
 
+<h2>Zusätzliche Wanderungen</h2>
+        <p>Manchmal organisieren wir eine zusätzlichen Treffpunkt, um den Süden des Salève fernab von der Seilbahn zu erkunden.
+         <strong>Nur für erfahrene Wanderer, die bereits mit uns den Salève bestiegen haben.</strong>
+         Einzelheiten werden 1-2 Tage im voraus hier angekündigt, je nach Wetterbedingungen. 
+      </p>
+
+  <div id="cards"></div>
+
 <div class="box-error">
 Der Verein lehnt jede Verantwortung für Unfälle ab.
 </div>
@@ -59,4 +67,38 @@ d.setDate(d.getDate() + 7 );
 var options = {'weekday': 'long', 'month': 'long', 'day': '2-digit', 'year': 'numeric'};
 var date = d.toLocaleString('de-DE', options);
 document.getElementById('nextMeeting').innerHTML = "Nächste Wanderung: "+date.toString();
+
+   const scriptUrl = "https://script.google.com/macros/s/AKfycbxrDnesoYawPLQHClhvAdgQ99RgiN-gSm2uwStbYuDarsovduTptgTzfamoxxQPuR5X/exec"; 
+
+    async function loadHikes() {
+      const container = document.getElementById("cards");
+      container.innerHTML = "<p>Einen Moment...</p>";
+
+      try {
+        const response = await fetch(scriptUrl);
+        const hikes = await response.json();
+
+        container.innerHTML = "";
+
+        hikes.forEach(hike => {
+          const card = document.createElement("div");
+          card.className = "card";
+
+          card.innerHTML = `
+            <p><strong> ${hike.Rdv || ""}</strong><br>
+            ${hike.Stops || ""}<br>
+            ${hike.Details || ""}</p>
+          `;
+
+          container.appendChild(card);
+        });
+
+      } catch (err) {
+        console.error(err);
+        container.innerHTML = "<p>Oops.</p>";
+      }
+    }
+
+    loadHikes();
+
 </script>
