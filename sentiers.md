@@ -4,7 +4,7 @@ title: Sentiers du Salève
 share-title: Sentiers du Salève
 share-description: Les sentiers de randonnée classiques au Salève
 ---
-Il y a une multitude de sentiers pour randonner au Salève. L'AGAS ne propose que les chemins officiels (balisés) et non dangereux, ne pas dépassant le niveau T2 selon les [cotations du Club Alpin Suisse.](https://www.sac-cas.ch/fileadmin/Ausbildung_und_Wissen/Tourenplanung/Alpinmerkbl%C3%A4tter/20230808_CAS_echelle_cotation_randonnee_final.pdf)
+Il y a une multitude de sentiers pour randonner au Salève. L'AGAS ne propose que les chemins officiels (balisés) et non dangereux, ne pas dépassant le niveau T2 selon les [cotations du Club Alpin Suisse.](https://www.sac-cas.ch/fileadmin/Ausbildung_und_Sicherheit/Tourenplanung/Alpinmerkbl%C3%A4tter/20230808_CAS_echelle_cotation_randonnee_final.pdf)
 Néanmoins, nous vous rappelons qu'il faut de bonnes chaussures de marche pour participer.\
 Le Salève reste une montagne de moyenne altitude qui demande un minimum d'équipement. Pour information, le Salève est la deuxième montagne la plus [dangereuse](https://www.tdg.ch/le-saleve-est-le-plus-dangereux-de-haute-savoie-apres-le-mont-blanc-690069306405) en Haute-Savoie après le Mont-Blanc.\
 Si vous n'avez pas d'expérience de randonnée en montagne, nous recommandons de commencer par le sentier le plus court (Pas de l'échelle).\

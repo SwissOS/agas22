@@ -18,7 +18,7 @@ Daniel Pfund (vice-président)</p>
 
 <p><b>Sorties</b> : En 2025, le rendez-vous fixe à Veyrier-Douane a de nouveau été maintenu chaque dimanche de l’année, soit 52 dimanches. Nous avons aussi organisé six sorties alternatives de dimanche depuis des endroits plus au sud du Salève, et deux sorties hors dimanche, soit 60 sorties au total. </p>
 
-<p><b>Chemins parcourus</b> : Nos randonnées ne dépassent pas  la <a href="https://www.sac-cas.ch/fileadmin/Ausbildung_und_Wissen/Tourenplanung/Alpinmerkbl%C3%A4tter/20230808_CAS_echelle_cotation_randonnee_final.pdf">cotation T2 du Club Alpin Suisse</a> (« randonnée en montagne »). Un plan des chemins que nous avons empruntés, numérotés par fréquence de nos passages, se trouve dans l’<a href="#annexe-1">Annexe 1</a> de ce rapport. </p>
+<p><b>Chemins parcourus</b> : Nos randonnées ne dépassent pas  la <a href="https://www.sac-cas.ch/fileadmin/Ausbildung_und_Sicherheit/Tourenplanung/Alpinmerkbl%C3%A4tter/20230808_CAS_echelle_cotation_randonnee_final.pdf">cotation T2 du Club Alpin Suisse</a> (« randonnée en montagne »). Un plan des chemins que nous avons empruntés, numérotés par fréquence de nos passages, se trouve dans l’<a href="#annexe-1">Annexe 1</a> de ce rapport. </p>
 <ul>
 <li>
 <p>Rendez-vous fixe : Depuis Veyrier-Douane nous faisons normalement environ 800-900 mètres de dénivelé positif et une distance de 7 à 25 kilomètres selon l’itinéraire. Souvent nous montons par le Pas de l’Echelle, la Grande Gorge ou le chemin d’Orjobet pour faire une traversée (ou non) par la crête ou la Corraterie, avant de descendre à Veyrier-Douane ou à Croix-de-Rozon. Plus rarement nous empruntons d'autres sentiers comme celui du Bois-Mouton, du Funiculaire, ou de la Joie par exemple.</p>

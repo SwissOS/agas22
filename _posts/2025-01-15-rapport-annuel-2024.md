@@ -18,7 +18,7 @@ Le rendez-vous fixe à Veyrier-Douane a été maintenu chaque dimanche de l’an
 
 En moyenne, 14 personnes sont venues aux rendez-vous (minimum 3, maximum 28). Au total il y a eu 769 présences notées, dont 210 étaient des premières randonnées avec l’AGAS et 10 étaient des enfants âgées entre 7 et 14 ans. Reconduisant les chiffres des rapports annuels précédents, depuis mai 1996 et jusqu’à fin 2024, il y a eu 29’284 participants (en comptant chaque randonnée de chaque personne), et 8’158 personnes différentes sont venues marcher avec l’AGAS.
 
-Selon la [cotation du Club Alpin Suisse](https://www.sac-cas.ch/fileadmin/Ausbildung_und_Wissen/Tourenplanung/Alpinmerkbl%C3%A4tter/20230808_CAS_echelle_cotation_randonnee_final.pdf) nos randonnées sont du niveau T2 (« randonnée en montagne »), avec 850 mètres de dénivelé environ pour la montée et une distance de 7 à 25 kilomètres selon l’itinéraire. Parfois nous formons plusieurs groupes avec des itinéraires différents. La plupart des marcheurs descend aussi à pied.
+Selon la [cotation du Club Alpin Suisse](https://www.sac-cas.ch/fileadmin/Ausbildung_und_Sicherheit/Tourenplanung/Alpinmerkbl%C3%A4tter/20230808_CAS_echelle_cotation_randonnee_final.pdf) nos randonnées sont du niveau T2 (« randonnée en montagne »), avec 850 mètres de dénivelé environ pour la montée et une distance de 7 à 25 kilomètres selon l’itinéraire. Parfois nous formons plusieurs groupes avec des itinéraires différents. La plupart des marcheurs descend aussi à pied.
 
 Nous avons arpenté le Salève dans tous les sens. Un plan et un tableau des chemins par fréquence de nos passages se trouvent à la fin de ce rapport. Peu surprenant, le plus souvent nous sommes passés par le chemin du Pas de l’Echelle, la crête et le chemin du Facteur.
 
