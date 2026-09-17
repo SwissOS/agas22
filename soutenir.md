@@ -16,7 +16,8 @@ L'AGAS est une association d'utilité publique. Vous pouvez donc déduire votre 
 IBAN : CH29 0840 1000 0724 9226 0 \
 Bénéficiaire : Association genevoise des amis du Salève (AGAS), 1202 Genève \
 QR code pour paiement e-banking:\
-![QR-code](/assets/img/qr-code.png "qr-code")
+![QR-code](/assets/img/qr-code.png "qr-code")\
+[Bulletin de versement](/assets/pdf/AGAS-facture-QR_montant-libre.pdf) (montant libre)
 
 <p align="center">
   <img src="/assets/img/ThankYou.png" />
