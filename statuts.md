@@ -1,11 +1,13 @@
 ---
 layout: page
 title: Statuts
-share-title: Status de l'AGAS
+share-title: Statuts de l'AGAS
 ---
 Association Genevoise des Amis du Salève (AGAS)
 
 # Statuts
+
+Version actuelle: mars 2026  |  [Historique](#historique)
 
 **I - Dénomination**
 
@@ -64,3 +66,9 @@ Article 16: Peuvent devenir membres toutes les personnes qui désirent soutenir 
 **IX - Disposition finale**
 
 Article 17: Les présents statuts ont été approuvés par l'assemblée générale du 15 mars 2026, en modification de ceux du 16.03.2025. Ils entrent immédiatement en vigueur.
+<!-- Blank -->
+---
+## Historique
+* Modifications, mars 2026: voir le [PV de l'assemblée générale 2026, pp 5-6](/assets/pdf/pvag26.pdf#page=5">)
+* Modifications, mars 2025: voir le [PV de l'assemblée générale 2025, pp 4-5](/assets/pdf/pvag25.pdf#page=4">)
+* Version originale: 1998
