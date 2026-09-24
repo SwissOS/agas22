@@ -1,10 +1,20 @@
 ---
 layout: page
-title: Assemblées générales
-share-title: Assemblée générale de l'AGAS
+title: Rapports annuels
+share-title: Rapports annuels de l'AGAS
 ---
-## L'assemblée générale permet :
 
+## Nos rapports annuels
+* [Rapport annuel 2025]({% post_url 2026-01-08-rapport-annuel-2025 %})
+* [Rapport annuel 2024]({% post_url 2025-01-15-rapport-annuel-2024 %})
+* [Rapport annuel 2023]({% post_url 2024-02-29-rapport-annuel-2023 %})
+* [Rapport annuel 2022]({% post_url 2023-02-22-rapport-annuel-2022 %})
+* [Rapport annuel 2021]({% post_url 2022-01-01-rapport-annuel-2021 %})
+* [Rapports annuels 1999-2020]({% post_url 2021-01-01-rapports-annuels-1999-2020 %})
+
+Les rapports annuels sont présentés aux membres de l'AGAS chaque année lors de l'assemblée génerale. ([Infos sur l'adhésion](/soutenir.md))
+
+## L'assemblée générale permet :
 * de présenter le bilan humain et financier de l'année écoulée ;
 * de rendre compte de nos réalisations ;
 * de fêter les succès et de discuter des échecs ;
@@ -15,10 +25,3 @@ share-title: Assemblée générale de l'AGAS
 * de revenir sur les activités de l'année écoulée, finances, randonnées, balisage et autres.
 
 C'est également le moment propice pour les membres de prendre la parole et de faire part de leurs interrogations, leurs désirs, leurs frustrations, bref de s'exprimer afin que le Comité puisse avancer d'une manière satisfaisante pour les membres.
-
-## Nos derniers rapports annuels
-* [Rapport annuel 2025]({% post_url 2026-01-08-rapport-annuel-2025 %})
-* [Rapport annuel 2024]({% post_url 2025-01-15-rapport-annuel-2024 %})
-* [Rapport annuel 2023]({% post_url 2024-02-29-rapport-annuel-2023 %})
-* [Rapport annuel 2022]({% post_url 2023-02-22-rapport-annuel-2022 %})
-* [Rapport annuel 2021]({% post_url 2022-01-01-rapport-annuel-2021 %})
