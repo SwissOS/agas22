@@ -12,9 +12,9 @@ Les temps indiqués sont uniquement pour la montée jusqu'au téléphérique. Co
 
 Pour la montée, l'AGAS propose essentiellement 3 sentiers:
 
-* **Le Pas de l'échelle** (*moyennement difficile,* en rouge sur la carte ci-dessous) <br>[Descriptif technique du sentier du Pas de l'échelle disponible ici](https://rando-saleve.net/eglmonnetier.html) <br>et [ici pour la deuxième partie depuis Monnetier](https://rando-saleve.net/itiner.html#ma1ancre)
-* **La Grande Gorge** (*difficile,* en orange sur la carte) <br>[Descriptif technique du sentier de la Grande Gorge disponible ici](https://rando-saleve.net/salevr4g.html)
-* **Orjobet - La Corraterie** (*difficile,* en rouge/blanc sur la carte) <br>[Descriptif technique du sentier d'Orjobet disponible ici](https://rando-saleve.net/salevr4o.html)
+* **Le Pas de l'échelle** (*moyennement difficile,* en rouge sur la carte ci-dessous) <br>[Descriptif technique du sentier du Pas de l'échelle disponible ici](https://agas.saleve.xyz/eglmonnetier.html) <br>et [ici pour la deuxième partie depuis Monnetier](https://agas.saleve.xyz/itiner.html#ma1ancre)
+* **La Grande Gorge** (*difficile,* en orange sur la carte) <br>[Descriptif technique du sentier de la Grande Gorge disponible ici](https://agas.saleve.xyz/salevr4g.html)
+* **Orjobet - La Corraterie** (*difficile,* en rouge/blanc sur la carte) <br>[Descriptif technique du sentier d'Orjobet disponible ici](https://agas.saleve.xyz/salevr4o.html)
 
 Au retour, ceux qui n'ont pas laissé leur véhicule à Veyrier font souvent la traversée par la crête (1 heure, belles vues) pour descendre à Croix-de-Rozon (bus 82 et 44 vers la ville de Genève).
 
