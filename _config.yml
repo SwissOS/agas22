@@ -20,12 +20,13 @@ navbar-links:
     - Autour du Salève: "autour/"
   L'association:
     - Présentation: "agas/"
-    - Avertissement / Disclaimer: "disclaimer/"
+    - On parle de nous: "medias/"
     - Statuts: "statuts/"
     - Rapports annuels: "ag/"
     - Nous soutenir: "soutenir/"
   Informations Pratiques:
     - Infos Pratiques: "infos-pratiques/"
+    - Avertissement / Disclaimer: "disclaimer/"
     - Contact: "contact/"
     - Remerciements: "remerciements/"
   Language:
