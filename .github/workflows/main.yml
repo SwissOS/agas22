@@ -1,0 +1,4 @@
+- name: Build Jekyll Site
+  run: JEKYLL_ENV=production bundle exec jekyll build
+  env:
+    JEKYLL_ENV: production
